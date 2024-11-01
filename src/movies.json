@@ -1,0 +1,8002 @@
+[
+  {
+    "name": "Туз в рукаве",
+    "year": 1951,
+    "country": "США",
+    "director": "Билли Уайлдер",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Эйс Вентура: Розыск домашних животных",
+    "year": 1993,
+    "country": "США",
+    "director": "Том Шэдьяк",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Месть актера",
+    "year": 1963,
+    "country": "Япония",
+    "director": "Кон Итикава",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Зависимость",
+    "year": 1994,
+    "country": "США",
+    "director": "Абель Феррара",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Страховой агент",
+    "year": 1991,
+    "country": "Канада",
+    "director": "Атом Эгоян",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Приключения Бакару Банзая в восьмом измерении",
+    "year": 1984,
+    "country": "США",
+    "director": "У. Д. Рихтер",
+    "rating": 5.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Приключения Робин Гуда",
+    "year": 1938,
+    "country": "США",
+    "director": "Майкл Кёртиц",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "После работы",
+    "year": 1985,
+    "country": "США",
+    "director": "Мартин Скорсезе",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Агирре, гнев божий",
+    "year": 1972,
+    "country": "Германия",
+    "director": "Режиссёр: Вернер Херцог",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Аэроплан",
+    "year": 1980,
+    "country": "США",
+    "director": "Джим Абрахамс",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Акира",
+    "year": 1987,
+    "country": "Япония",
+    "director": "Кацухиро Отомо",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Александр Невский",
+    "year": 1938,
+    "country": "СССР",
+    "director": "Сергей Эйзенштейн",
+    "rating": 8.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Элфи",
+    "year": 1966,
+    "country": "Великобритания",
+    "director": "Льюис Гилберт",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Алиса",
+    "year": 1987,
+    "country": "Чехословакия",
+    "director": "Ян Шванкмайер",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Чужой",
+    "year": 1979,
+    "country": "Великобритания",
+    "director": "Ридли Скотт",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Всё о моей матери",
+    "year": 1999,
+    "country": "Испания",
+    "director": "Педро Альмодовар",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Все, что дозволено небесами",
+    "year": 1955,
+    "country": "США",
+    "director": "Дуглас Сирк",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Весь этот джаз",
+    "year": 1979,
+    "country": "США",
+    "director": "Боб Фосси",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вся президентская рать",
+    "year": 1976,
+    "country": "США",
+    "director": "Алан Дж. Пакула",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Альфавиль",
+    "year": 1965,
+    "country": "Франция",
+    "director": "Жан-Люк Годар",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Амадей",
+    "year": 1984,
+    "country": "США",
+    "director": "Милош Форман",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Любовники с Нового моста",
+    "year": 1991,
+    "country": "Франция",
+    "director": "Леос Каракс",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Амели",
+    "year": 2001,
+    "country": "Франция",
+    "director": "Жан-Пьер Жёне",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Красота по-американски",
+    "year": 1999,
+    "country": "США",
+    "director": "Сэм Мендес",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Американский жиголо",
+    "year": 1980,
+    "country": "США",
+    "director": "Пол Шредер",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Американские граффити",
+    "year": 1973,
+    "country": "США",
+    "director": "Джордж Лукас",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Американец в Париже",
+    "year": 1951,
+    "country": "США",
+    "director": "Винсент Миннелли",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Американское кино",
+    "year": 1999,
+    "country": "США",
+    "director": "Крис Смит",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Американский пирог",
+    "year": 1999,
+    "country": "США",
+    "director": "Пол Вайц",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Американское великолепие",
+    "year": 2003,
+    "country": "США",
+    "director": "Шари Спрингер Берман",
+    "rating": 6.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Американский оборотень в Лондоне",
+    "year": 1981,
+    "country": "Великобритания",
+    "director": "Джон Лэндис",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сука-любовь",
+    "year": 2000,
+    "country": "Мексика",
+    "director": "Алехандро Гонсалес Иньярриту",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Анатомия убийства",
+    "year": 1959,
+    "country": "США",
+    "director": "Отто Преминджер",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Андрей Рублев",
+    "year": 1966,
+    "country": "СССР",
+    "director": "Андрей Тарковский",
+    "rating": 8.2,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Ангел за моим столом",
+    "year": 1990,
+    "country": "Великобритания",
+    "director": "Джейн Кэмпион",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Энни Холл",
+    "year": 1977,
+    "country": "США",
+    "director": "Вуди Аллен",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Квартира",
+    "year": 1960,
+    "country": "США",
+    "director": "Билли Уайлдер",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Апокалипсис сегодня",
+    "year": 1979,
+    "country": "США",
+    "director": "Фрэнсис Форд Коппола",
+    "rating": 8.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Квартира",
+    "year": 1996,
+    "country": "Франция",
+    "director": "Жиль Мимуни",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Яблоко",
+    "year": 1998,
+    "country": "Иран",
+    "director": "Самира Махмальбаф",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Армия теней",
+    "year": 1969,
+    "country": "Франция",
+    "director": "Жан-Пьер Мельвиль",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вокруг Света за 80 дней",
+    "year": 1956,
+    "country": "США",
+    "director": "Майкл Андерсон",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мышьяк и старые кружева",
+    "year": 1944,
+    "country": "США",
+    "director": "Фрэнк Капра",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Асфальтовые джунгли",
+    "year": 1950,
+    "country": "США",
+    "director": "Джон Хьюстон",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Нападение на 13-й участок",
+    "year": 1976,
+    "country": "США",
+    "director": "Джон Карпентер",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "История Аси Клячиной, которая любила, да не вышла замуж",
+    "year": 1967,
+    "country": "СССР",
+    "director": "Андрей Кончаловский",
+    "rating": 7.3,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Аталанта",
+    "year": 1934,
+    "country": "Франция",
+    "director": "Жан Виго",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Быстрый бегун",
+    "year": 2000,
+    "country": "Канада",
+    "director": "Захариас Кунук",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Атлантик-Сити",
+    "year": 1980,
+    "country": "Франция",
+    "director": "Луи Маль",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Наудачу, Бальтазар",
+    "year": 1966,
+    "country": "Франция",
+    "director": "Робер Брессон",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "До свидания, дети",
+    "year": 1987,
+    "country": "Франция",
+    "director": "Луи Маль",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кинопроба",
+    "year": 1999,
+    "country": "Япония",
+    "director": "Такаси Миике",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Остин Пауэрс: Человек-загадка международного масштаба",
+    "year": 1997,
+    "country": "Германия",
+    "director": "Джей Роуч",
+    "rating": 6.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Приключение",
+    "year": 1960,
+    "country": "Италия",
+    "director": "Микеланджело Антониони",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бэйб: Четвероногий малыш",
+    "year": 1995,
+    "country": "Австралия",
+    "director": "Крис Нунен",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пир Бабетты",
+    "year": 1987,
+    "country": "Дания",
+    "director": "Габриэль Аксель",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Назад в будущее",
+    "year": 1985,
+    "country": "США",
+    "director": "Роберт Земекис",
+    "rating": 8.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Непослушный Бабби",
+    "year": 1993,
+    "country": "Австралия",
+    "director": "Рольф Де Хер",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Плохой день в Блэк-Роке",
+    "year": 1955,
+    "country": "США",
+    "director": "Джон Стёрджес",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Плохой лейтенант",
+    "year": 1992,
+    "country": "США",
+    "director": "Абель Феррара",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Плохой Санта",
+    "year": 2003,
+    "country": "США",
+    "director": "Терри Цвигофф",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пустоши",
+    "year": 1973,
+    "country": "США",
+    "director": "Терренс Малик",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кафе «Багдад»",
+    "year": 1987,
+    "country": "Германия",
+    "director": "Режиссёр: Перси Адлон",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бемби",
+    "year": 1942,
+    "country": "США",
+    "director": "Джеймс Элгар",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Банда аутсайдеров",
+    "year": 1964,
+    "country": "Франция",
+    "director": "Жан-Люк Годар",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Королева бандитов",
+    "year": 1994,
+    "country": "Индия",
+    "director": "Шекхар Капур",
+    "rating": 5.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Барбарелла",
+    "year": 1968,
+    "country": "Франция",
+    "director": "Роже Вадим",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Барри Линдон",
+    "year": 1975,
+    "country": "Великобритания",
+    "director": "Стэнли Кубрик",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бартон Финк",
+    "year": 1991,
+    "country": "Великобритания",
+    "director": "Джоэл Коэн",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бэтмен",
+    "year": 1989,
+    "country": "США",
+    "director": "Тим Бёртон",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Битва за Алжир",
+    "year": 1966,
+    "country": "Италия",
+    "director": "Джилло Понтекорво",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Королевская битва",
+    "year": 2000,
+    "country": "Япония",
+    "director": "Киндзи Фукасаку",
+    "rating": 7.4,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Броненосец «Потемкин»",
+    "year": 1925,
+    "country": "СССР",
+    "director": "Сергей Эйзенштейн",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Мое сердце биться перестало",
+    "year": 2005,
+    "country": "Франция",
+    "director": "Жак Одиар",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хорошая работа",
+    "year": 1999,
+    "country": "Франция",
+    "director": "Клер Дени",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бекет",
+    "year": 1964,
+    "country": "Великобритания",
+    "director": "Питер Гленвилл",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Перед рассветом",
+    "year": 1995,
+    "country": "США",
+    "director": "Ричард Линклейтер",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Быть Джоном Малковичем",
+    "year": 1999,
+    "country": "США",
+    "director": "Спайк Джонс",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Будучи там",
+    "year": 1979,
+    "country": "Германия",
+    "director": "Режиссёр: Хэл Эшби",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дневная красавица",
+    "year": 1967,
+    "country": "Франция",
+    "director": "Луис Бунюэль",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Очаровательная проказница",
+    "year": 1991,
+    "country": "Франция",
+    "director": "Жак Риветт",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Трио из Бельвилля",
+    "year": 2003,
+    "country": "Франция",
+    "director": "Сильвен Шомэ",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бен-Гур",
+    "year": 1959,
+    "country": "США",
+    "director": "Уильям Уайлер",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек-зверь",
+    "year": 1938,
+    "country": "Франция",
+    "director": "Жан Ренуар",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Зверь",
+    "year": 1975,
+    "country": "Франция",
+    "director": "Валериан Боровчик",
+    "rating": 5.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Уж лучше умереть",
+    "year": 1985,
+    "country": "США",
+    "director": "Сэвидж Стив Холланд",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "37,2º утром",
+    "year": 1986,
+    "country": "Франция",
+    "director": "Жан-Жак Бенекс",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Полицейский из Беверли-Хиллз",
+    "year": 1984,
+    "country": "США",
+    "director": "Мартин Брест",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Изнанка долины кукол",
+    "year": 1970,
+    "country": "США",
+    "director": "Расс Майер",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Похитители велосипедов",
+    "year": 1948,
+    "country": "Италия",
+    "director": "Витторио Де Сика",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Большое разочарование",
+    "year": 1983,
+    "country": "США",
+    "director": "Лоуренс Кэздан",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большой ансамбль",
+    "year": 1955,
+    "country": "США",
+    "director": "Джозеф Х. Льюис",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сильная жара",
+    "year": 1953,
+    "country": "США",
+    "director": "Фриц Ланг",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большой Лебовски",
+    "year": 1998,
+    "country": "США",
+    "director": "Джоэл Коэн",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большая ночь",
+    "year": 1996,
+    "country": "США",
+    "director": "Кэмпбелл Скотт",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большой парад",
+    "year": 1925,
+    "country": "США",
+    "director": "Кинг Видор",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Глубокий сон",
+    "year": 1946,
+    "country": "США",
+    "director": "Ховард Хоукс",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Все решается в среду",
+    "year": 1978,
+    "country": "США",
+    "director": "Джон Милиус",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Невероятные приключения Билла и Теда",
+    "year": 1989,
+    "country": "США",
+    "director": "Стивен Херек",
+    "rating": 6.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Птицы",
+    "year": 1963,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Рождение нации",
+    "year": 1915,
+    "country": "США",
+    "director": "Дэвид Уорк Гриффит",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Черная кошка, белый кот",
+    "year": 1998,
+    "country": "Франция",
+    "director": "Эмир Кустурица",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Школьные джунгли",
+    "year": 1955,
+    "country": "США",
+    "director": "Ричард Брукс",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Школьные доски",
+    "year": 2000,
+    "country": "Иран",
+    "director": "Самира Махмальбаф",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бегущий по лезвию",
+    "year": 1982,
+    "country": "США",
+    "director": "Ридли Скотт",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ведьма из Блэр: Курсовая с того света",
+    "year": 1999,
+    "country": "США",
+    "director": "Дэниэл Мирик",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сверкающие седла",
+    "year": 1974,
+    "country": "США",
+    "director": "Мэл Брукс",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Любовные похождения блондинки",
+    "year": 1965,
+    "country": "Чехословакия",
+    "director": "Милош Форман",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Фотоувеличение",
+    "year": 1966,
+    "country": "Великобритания",
+    "director": "Микеланджело Антониони",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Голубой ангел",
+    "year": 1930,
+    "country": "Германия",
+    "director": "Джозеф фон Штернберг",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Синий георгин",
+    "year": 1946,
+    "country": "США",
+    "director": "Джордж Маршалл",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Синяя лампа",
+    "year": 1950,
+    "country": "Великобритания",
+    "director": "Бэзил Дирден",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Синий бархат",
+    "year": 1986,
+    "country": "США",
+    "director": "Дэвид Линч",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Братья Блюз",
+    "year": 1980,
+    "country": "США",
+    "director": "Джон Лэндис",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Боб-прожигатель",
+    "year": 1956,
+    "country": "Франция",
+    "director": "Жан-Пьер Мельвиль",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тело и душа",
+    "year": 1947,
+    "country": "США",
+    "director": "Роберт Россен",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Аргентинский дог",
+    "year": 2004,
+    "country": "Аргентина",
+    "director": "Карлос Сорин",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бонни и Клайд",
+    "year": 1967,
+    "country": "США",
+    "director": "Артур Пенн",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ночи в стиле буги",
+    "year": 1997,
+    "country": "США",
+    "director": "Пол Томас Андерсон",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Подводная лодка",
+    "year": 1981,
+    "country": "Германия",
+    "director": "Режиссёр: Вольфганг Петерсен",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Борат",
+    "year": 2006,
+    "country": "США",
+    "director": "Ларри Чарльз",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бостонский душитель",
+    "year": 1968,
+    "country": "США",
+    "director": "Ричард Флейшер",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мясник",
+    "year": 1969,
+    "country": "Франция",
+    "director": "Клод Шаброль",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Боулинг для Колумбины",
+    "year": 2002,
+    "country": "США",
+    "director": "Майкл Мур",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ребята с улицы",
+    "year": 1991,
+    "country": "США",
+    "director": "Джон Синглтон",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Семейка Брэди",
+    "year": 1995,
+    "country": "США",
+    "director": "Бетти Томас",
+    "rating": 5.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Рождённый убивать",
+    "year": 1967,
+    "country": "Япония",
+    "director": "Сэйдзюн Судзуки",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Храброе сердце",
+    "year": 1995,
+    "country": "США",
+    "director": "Мэл Гибсон",
+    "rating": 8.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бразилия",
+    "year": 1985,
+    "country": "Великобритания",
+    "director": "Терри Гиллиам",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Завтрак у Тиффани",
+    "year": 1961,
+    "country": "США",
+    "director": "Блейк Эдвардс",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Уходя в отрыв",
+    "year": 1979,
+    "country": "США",
+    "director": "Питер Йетс",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Рассекая волны",
+    "year": 1996,
+    "country": "Дания",
+    "director": "Ларс фон Триер",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На последнем дыхании",
+    "year": 1960,
+    "country": "Франция",
+    "director": "Жан-Люк Годар",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кирпич",
+    "year": 2005,
+    "country": "США",
+    "director": "Райан Джонсон",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Невеста Франкенштейна",
+    "year": 1935,
+    "country": "США",
+    "director": "Джеймс Уэйл",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мост через реку Квай",
+    "year": 1957,
+    "country": "Великобритания",
+    "director": "Дэвид Лин",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Короткая встреча",
+    "year": 1945,
+    "country": "Великобритания",
+    "director": "Дэвид Лин",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Яркий летний день",
+    "year": 1991,
+    "country": "Тайвань",
+    "director": "Эдвард Ян",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Брайтонский леденец",
+    "year": 1948,
+    "country": "Великобритания",
+    "director": "Джон Боултинг",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Принесите мне голову Альфредо Гарсиа",
+    "year": 1974,
+    "country": "США",
+    "director": "Сэм Пекинпа",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Воспитание Крошки",
+    "year": 1938,
+    "country": "США",
+    "director": "Ховард Хоукс",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бродвей Денни Роуз",
+    "year": 1984,
+    "country": "США",
+    "director": "Вуди Аллен",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Горбатая гора",
+    "year": 2005,
+    "country": "США",
+    "director": "Энг Ли",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Баффало 66",
+    "year": 1997,
+    "country": "США",
+    "director": "Винсент Галло",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Багси Мэлоун",
+    "year": 1976,
+    "country": "Великобритания",
+    "director": "Алан Паркер",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дархэмские быки",
+    "year": 1988,
+    "country": "США",
+    "director": "Рон Шелтон",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Детектив Буллитт",
+    "year": 1968,
+    "country": "США",
+    "director": "Питер Йетс",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Утомленные солнцем",
+    "year": 1994,
+    "country": "Россия",
+    "director": "Никита Михалков",
+    "rating": 7.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Буч Кэссиди и Сандэнс Кид",
+    "year": 1969,
+    "country": "США",
+    "director": "Джордж Рой Хилл",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кабаре",
+    "year": 1972,
+    "country": "США",
+    "director": "Боб Фосси",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кабинет доктора Калигари",
+    "year": 1920,
+    "country": "Германия",
+    "director": "Роберт Вине",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Клетка для чудаков",
+    "year": 1978,
+    "country": "Франция",
+    "director": "Эдуар Молинаро",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кентерберийская история",
+    "year": 1944,
+    "country": "Великобритания",
+    "director": "Майкл Пауэлл",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Захват Фридманов",
+    "year": 2003,
+    "country": "США",
+    "director": "Эндрю Джареки",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Караваджо",
+    "year": 1986,
+    "country": "Великобритания",
+    "director": "Дерек Джармен",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Так держать Клео!",
+    "year": 1964,
+    "country": "Великобритания",
+    "director": "Джералд Томас",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Машины, которые съели Париж...",
+    "year": 1974,
+    "country": "Австралия",
+    "director": "Питер Уир",
+    "rating": 5.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Касабланка",
+    "year": 1942,
+    "country": "США",
+    "director": "Майкл Кёртиц",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Казино",
+    "year": 1995,
+    "country": "США",
+    "director": "Мартин Скорсезе",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кошка на раскаленной крыше",
+    "year": 1958,
+    "country": "США",
+    "director": "Ричард Брукс",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Селин и Жюли совсем заврались",
+    "year": 1974,
+    "country": "Франция",
+    "director": "Жак Риветт",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Цементный сад",
+    "year": 1992,
+    "country": "Великобритания",
+    "director": "Эндрю Биркин",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Центральный вокзал",
+    "year": 1998,
+    "country": "Бразилия",
+    "director": "Уолтер Саллес",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Церемония",
+    "year": 1995,
+    "country": "Франция",
+    "director": "Клод Шаброль",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Атака легкой кавалерии",
+    "year": 1968,
+    "country": "Великобритания",
+    "director": "Тони Ричардсон",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Огненные колесницы",
+    "year": 1981,
+    "country": "Великобритания",
+    "director": "Хью Хадсон",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шахматисты",
+    "year": 1977,
+    "country": "Индия",
+    "director": "Сатьяджит Рай",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Побег из курятника",
+    "year": 2000,
+    "country": "Великобритания",
+    "director": "Питер Лорд",
+    "rating": 7.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Андалузский пес",
+    "year": 1929,
+    "country": "Франция",
+    "director": "Луис Бунюэль",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дитя",
+    "year": 2005,
+    "country": "Бельгия",
+    "director": "Жан-Пьер Дарденн",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Китайский квартал",
+    "year": 1974,
+    "country": "США",
+    "director": "Роман Полански",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Чак и Бак",
+    "year": 2000,
+    "country": "США",
+    "director": "Мигель Артета",
+    "rating": 5.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Чунгкингский экспресс",
+    "year": 1994,
+    "country": "Гонконг",
+    "director": "Вонг Кар-Вай",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Болото",
+    "year": 2001,
+    "country": "Аргентина",
+    "director": "Лукресия Мартель",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Цинциннати Кид",
+    "year": 1965,
+    "country": "США",
+    "director": "Норман Джуисон",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Новый кинотеатр «Парадизо»",
+    "year": 1988,
+    "country": "Италия",
+    "director": "Джузеппе Торнаторе",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гражданин Кейн",
+    "year": 1941,
+    "country": "США",
+    "director": "Орсон Уэллс",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Город бога",
+    "year": 2002,
+    "country": "Бразилия",
+    "director": "Фернанду Мейреллиш",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Клерки",
+    "year": 1994,
+    "country": "США",
+    "director": "Кевин Смит",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Заводной апельсин",
+    "year": 1971,
+    "country": "Великобритания",
+    "director": "Стэнли Кубрик",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Близкие контакты третьей степени",
+    "year": 1977,
+    "country": "США",
+    "director": "Стивен Спилберг",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Поезда под пристальным наблюдением",
+    "year": 1966,
+    "country": "Чехословакия",
+    "director": "Иржи Менцель",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крупный план",
+    "year": 1990,
+    "country": "Иран",
+    "director": "Аббас Киаростами",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бестолковые",
+    "year": 1995,
+    "country": "США",
+    "director": "Эми Хекерлинг",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Блюз членососа",
+    "year": 1972,
+    "country": "США",
+    "director": "Роберт Фрэнк",
+    "rating": 5.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хладнокровный Люк",
+    "year": 1967,
+    "country": "США",
+    "director": "Стюарт Розенберг",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Товарищи",
+    "year": 1986,
+    "country": "Великобритания",
+    "director": "Билл Дуглас",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Блеф Кугана",
+    "year": 1968,
+    "country": "США",
+    "director": "Дон Сигел",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Цвет граната",
+    "year": 1968,
+    "country": "СССР",
+    "director": "Сергей Параджанов",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Иди и смотри",
+    "year": 1985,
+    "country": "СССР",
+    "director": "Элем Климов",
+    "rating": 8.3,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "В компании волков",
+    "year": 1984,
+    "country": "Великобритания",
+    "director": "Нил Джордан",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Воздушная тюрьма",
+    "year": 1997,
+    "country": "США",
+    "director": "Саймон Уэст",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Конформист",
+    "year": 1970,
+    "country": "Италия",
+    "director": "Бернардо Бертолуччи",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последствия любви",
+    "year": 2004,
+    "country": "Италия",
+    "director": "Паоло Соррентино",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Разговор",
+    "year": 1974,
+    "country": "США",
+    "director": "Фрэнсис Форд Коппола",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Повар, вор, его жена и её любовник",
+    "year": 1989,
+    "country": "Нидерланды",
+    "director": "Питер Гринуэй",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ворон",
+    "year": 1942,
+    "country": "Франция",
+    "director": "Анри-Жорж Клузо",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Летят журавли",
+    "year": 1957,
+    "country": "СССР",
+    "director": "Михаил Калатозов",
+    "rating": 8.3,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Автокатастрофа",
+    "year": 1996,
+    "country": "Великобритания",
+    "director": "Дэвид Кроненберг",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кремастер",
+    "year": 1996,
+    "country": "США",
+    "director": "Мэттью Барни",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Преступления и проступки",
+    "year": 1989,
+    "country": "США",
+    "director": "Вуди Аллен",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крокодил Данди",
+    "year": 1986,
+    "country": "Австралия",
+    "director": "Питер Фэймен",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хронос",
+    "year": 1992,
+    "country": "Мексика",
+    "director": "Гильермо дель Торо",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Круклин",
+    "year": 1994,
+    "country": "США",
+    "director": "Спайк Ли",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Перекрестный огонь",
+    "year": 1947,
+    "country": "США",
+    "director": "Эдвард Дмитрик",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крадущийся тигр, затаившийся дракон",
+    "year": 2000,
+    "country": "Тайвань",
+    "director": "Энг Ли",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крамб",
+    "year": 1994,
+    "country": "США",
+    "director": "Терри Цвигофф",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жестокая игра",
+    "year": 1992,
+    "country": "Великобритания",
+    "director": "Нил Джордан",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тупик",
+    "year": 1966,
+    "country": "Великобритания",
+    "director": "Роман Полански",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сирано де Бержерак",
+    "year": 1990,
+    "country": "Франция",
+    "director": "Жан-Поль Раппно",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Танцующая в темноте",
+    "year": 2000,
+    "country": "Дания",
+    "director": "Ларс фон Триер",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Опасные связи",
+    "year": 1988,
+    "country": "США",
+    "director": "Стивен Фрирз",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дантон",
+    "year": 1982,
+    "country": "Франция",
+    "director": "Анджей Вайда",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тёмная Звезда",
+    "year": 1974,
+    "country": "США",
+    "director": "Джон Карпентер",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дорогая",
+    "year": 1965,
+    "country": "Великобритания",
+    "director": "Джон Шлезингер",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Американская ночь",
+    "year": 1973,
+    "country": "Франция",
+    "director": "Франсуа Трюффо",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "День, когда остановилась Земля",
+    "year": 1951,
+    "country": "США",
+    "director": "Роберт Уайз",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дикие дни",
+    "year": 1990,
+    "country": "Гонконг",
+    "director": "Вонг Кар-Вай",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дни жатвы",
+    "year": 1978,
+    "country": "США",
+    "director": "Терренс Малик",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Под кайфом и в смятении",
+    "year": 1993,
+    "country": "США",
+    "director": "Ричард Линклейтер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мертвые пледов не носят",
+    "year": 1982,
+    "country": "США",
+    "director": "Карл Райнер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Глубокой ночью",
+    "year": 1945,
+    "country": "Великобритания",
+    "director": "Альберто Кавальканти",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мертвые президенты",
+    "year": 1995,
+    "country": "США",
+    "director": "Альберт Хьюз",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Связанные насмерть",
+    "year": 1988,
+    "country": "Канада",
+    "director": "Дэвид Кроненберг",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дорогой дневник",
+    "year": 1993,
+    "country": "Италия",
+    "director": "Нанни Моретти",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Смерть в Венеции",
+    "year": 1971,
+    "country": "Италия",
+    "director": "Лукино Висконти",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Падение западной цивилизации 2: Года металла",
+    "year": 1988,
+    "country": "США",
+    "director": "Пенелопа Сфирис",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Охотник на оленей",
+    "year": 1978,
+    "country": "США",
+    "director": "Майкл Чимино",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Избавление",
+    "year": 1972,
+    "country": "США",
+    "director": "Джон Бурмен",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Отчаянно ищу Сьюзэн",
+    "year": 1985,
+    "country": "США",
+    "director": "Сьюзэн Сейдельман",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Объезд",
+    "year": 1945,
+    "country": "США",
+    "director": "Эдгар Дж. Улмер",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Девдас",
+    "year": 2002,
+    "country": "Индия",
+    "director": "Санджай Лила Бхансали",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дьявол в голубом платье",
+    "year": 1995,
+    "country": "США",
+    "director": "Карл Франклин",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дьяволы",
+    "year": 1971,
+    "country": "Великобритания",
+    "director": "Кен Рассел",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дьяволицы",
+    "year": 1954,
+    "country": "Франция",
+    "director": "Анри-Жорж Клузо",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дневник сельского священника",
+    "year": 1951,
+    "country": "Франция",
+    "director": "Робер Брессон",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дик Трэйси",
+    "year": 1990,
+    "country": "США",
+    "director": "Уоррен Битти",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крепкий орешек",
+    "year": 1988,
+    "country": "США",
+    "director": "Джон Мактирнан",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Врубайся!",
+    "year": 2004,
+    "country": "США",
+    "director": "Онди Тимонер",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Забегаловка",
+    "year": 1982,
+    "country": "США",
+    "director": "Барри Левинсон",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Грязные танцы",
+    "year": 1987,
+    "country": "США",
+    "director": "Эмиль Ардолино",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Грязная дюжина",
+    "year": 1967,
+    "country": "Великобритания",
+    "director": "Роберт Олдрич",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Грязный Гарри",
+    "year": 1971,
+    "country": "США",
+    "director": "Дон Сигел",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Отпетые мошенники",
+    "year": 1988,
+    "country": "США",
+    "director": "Фрэнк Оз",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Скромное обаяние буржуазии",
+    "year": 1972,
+    "country": "Франция",
+    "director": "Луис Бунюэль",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Далекие голоса, застывшие жизни",
+    "year": 1988,
+    "country": "Великобритания",
+    "director": "Теренс Дэвис",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дива",
+    "year": 1981,
+    "country": "Франция",
+    "director": "Жан-Жак Бенекс",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Джанго",
+    "year": 1966,
+    "country": "Италия",
+    "director": "Серджио Корбуччи",
+    "rating": 7.4,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Делай как надо",
+    "year": 1989,
+    "country": "США",
+    "director": "Спайк Ли",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вышибалы",
+    "year": 2004,
+    "country": "Германия",
+    "director": "Роусон Маршалл Тёрбер",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Собачий полдень",
+    "year": 1975,
+    "country": "США",
+    "director": "Сидни Люмет",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Парни на скейтах",
+    "year": 2001,
+    "country": "США",
+    "director": "Стэйси Перальта",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Догвилль",
+    "year": 2003,
+    "country": "Дания",
+    "director": "Ларс фон Триер",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Сладкая жизнь",
+    "year": 1960,
+    "country": "Италия",
+    "director": "Федерико Феллини",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Не оглядывайся",
+    "year": 1967,
+    "country": "США",
+    "director": "Д.А. Пеннебейкер",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "А теперь не смотри",
+    "year": 1973,
+    "country": "Великобритания",
+    "director": "Николас Роуг",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Донни Браско",
+    "year": 1997,
+    "country": "США",
+    "director": "Майк Ньюэлл",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Донни Дарко",
+    "year": 2001,
+    "country": "США",
+    "director": "Ричард Келли",
+    "rating": 7.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Двойная страховка",
+    "year": 1944,
+    "country": "США",
+    "director": "Билли Уайлдер",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Поллюкс и синий кот",
+    "year": 1970,
+    "country": "Франция",
+    "director": "Серж Дано",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Стукач",
+    "year": 1962,
+    "country": "Франция",
+    "director": "Жан-Пьер Мельвиль",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вне закона",
+    "year": 1986,
+    "country": "Германия",
+    "director": "Режиссёр: Джим Джармуш",
+    "rating": 7.8,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Бункер",
+    "year": 2004,
+    "country": "Германия",
+    "director": "Оливер Хиршбигель",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу",
+    "year": 1963,
+    "country": "Великобритания",
+    "director": "Стэнли Кубрик",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Доктор Живаго",
+    "year": 1965,
+    "country": "Италия",
+    "director": "Дэвид Лин",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дракула",
+    "year": 1958,
+    "country": "Великобритания",
+    "director": "Теренс Фишер",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Контракт рисовальщика",
+    "year": 1982,
+    "country": "Великобритания",
+    "director": "Питер Гринуэй",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Воображаемая жизнь ангелов",
+    "year": 1998,
+    "country": "Франция",
+    "director": "Эрик Зонка",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сны, которые можно купить за деньги",
+    "year": 1947,
+    "country": "США",
+    "director": "Ханс Рихтер",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Костюмер",
+    "year": 1983,
+    "country": "Великобритания",
+    "director": "Питер Йетс",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Аптечный ковбой",
+    "year": 1989,
+    "country": "США",
+    "director": "Гас Ван Сент",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пьяный мастер",
+    "year": 1978,
+    "country": "Гонконг",
+    "director": "Юэнь У-Пин",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Утиный суп",
+    "year": 1933,
+    "country": "США",
+    "director": "Лео МакКери",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тупой и еще тупее",
+    "year": 1994,
+    "country": "США",
+    "director": "Питер Фаррелли",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "К востоку от рая",
+    "year": 1955,
+    "country": "США",
+    "director": "Элиа Казан",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Беспечный ездок",
+    "year": 1969,
+    "country": "США",
+    "director": "Деннис Хоппер",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Эдвард II",
+    "year": 1991,
+    "country": "Великобритания",
+    "director": "Дерек Джармен",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Эдвард руки-ножницы",
+    "year": 1990,
+    "country": "США",
+    "director": "Тим Бёртон",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "8 с половиной",
+    "year": 1963,
+    "country": "Италия",
+    "director": "Федерико Феллини",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Восемь выходят из игры",
+    "year": 1988,
+    "country": "США",
+    "director": "Джон Сейлз",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "8 миля",
+    "year": 2002,
+    "country": "США",
+    "director": "Кёртис Хэнсон",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Выскочка",
+    "year": 1999,
+    "country": "США",
+    "director": "Александр Пэйн",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Слон",
+    "year": 2003,
+    "country": "США",
+    "director": "Гас Ван Сент",
+    "rating": 6.4,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Человек-слон",
+    "year": 1980,
+    "country": "США",
+    "director": "Дэвид Линч",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Елизавета",
+    "year": 1998,
+    "country": "Великобритания",
+    "director": "Шекхар Капур",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Элмер Гантри",
+    "year": 1960,
+    "country": "США",
+    "director": "Ричард Брукс",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Империя солнца",
+    "year": 1987,
+    "country": "США",
+    "director": "Стивен Спилберг",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Конец века",
+    "year": 2003,
+    "country": "США",
+    "director": "Джим Филдс",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бесконечное лето",
+    "year": 1966,
+    "country": "США",
+    "director": "Брюс Браун",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дети райка",
+    "year": 1945,
+    "country": "Франция",
+    "director": "Марсель Карне",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Английский пациент",
+    "year": 1996,
+    "country": "США",
+    "director": "Энтони Мингелла",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Каждый за себя, а Бог против всех",
+    "year": 1974,
+    "country": "Германия",
+    "director": "Режиссёр: Вернер Херцог",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Выход Дракона",
+    "year": 1973,
+    "country": "Гонконг",
+    "director": "Роберт Клауз",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Голова-ластик",
+    "year": 1977,
+    "country": "США",
+    "director": "Дэвид Линч",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Инопланетянин",
+    "year": 1982,
+    "country": "США",
+    "director": "Стивен Спилберг",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вечное сияние чистого разума",
+    "year": 2004,
+    "country": "США",
+    "director": "Мишель Гондри",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Зловещие мертвецы",
+    "year": 1981,
+    "country": "США",
+    "director": "Сэм Рэйми",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Изгоняющий дьявола",
+    "year": 1973,
+    "country": "США",
+    "director": "Уильям Фридкин",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Глаза без лица",
+    "year": 1959,
+    "country": "Франция",
+    "director": "Жорж Франжю",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Знаменитые братья Бейкер",
+    "year": 1989,
+    "country": "США",
+    "director": "Стивен Кловз",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лицо в толпе",
+    "year": 1957,
+    "country": "США",
+    "director": "Элиа Казан",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Без лица",
+    "year": 1997,
+    "country": "США",
+    "director": "Джон Ву",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Факультет",
+    "year": 1998,
+    "country": "США",
+    "director": "Роберт Родригес",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Фаренгейт 9/11",
+    "year": 2004,
+    "country": "США",
+    "director": "Майкл Мур",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Поверженный идол",
+    "year": 1948,
+    "country": "Великобритания",
+    "director": "Кэрол Рид",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Фанни и Александр",
+    "year": 1982,
+    "country": "Швеция",
+    "director": "Ингмар Бергман",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Вдали от рая",
+    "year": 2002,
+    "country": "США",
+    "director": "Тодд Хейнс",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Прощай, моя наложница",
+    "year": 1993,
+    "country": "Китай",
+    "director": "Чэнь Кайгэ",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Фарго",
+    "year": 1995,
+    "country": "США",
+    "director": "Джоэл Коэн",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Беспечные времена в «Риджмонт Хай»",
+    "year": 1982,
+    "country": "США",
+    "director": "Эми Хекерлинг",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Быстрее, кошечка! Убей, убей!",
+    "year": 1965,
+    "country": "США",
+    "director": "Расс Майер",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Страх съедает душу",
+    "year": 1974,
+    "country": "Германия",
+    "director": "Режиссёр: Райнер Вернер Фассбиндер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Выходной день Ферриса Бьюллера",
+    "year": 1986,
+    "country": "США",
+    "director": "Джон Хьюз",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Торжество",
+    "year": 1998,
+    "country": "Дания",
+    "director": "Томас Винтерберг",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Поле чудес",
+    "year": 1989,
+    "country": "США",
+    "director": "Фил Олден Робинсон",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пятый элемент",
+    "year": 1997,
+    "country": "Франция",
+    "director": "Люк Бессон",
+    "rating": 8.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Бойцовский клуб",
+    "year": 1999,
+    "country": "США",
+    "director": "Дэвид Финчер",
+    "rating": 8.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Начались пожары",
+    "year": 1943,
+    "country": "Великобритания",
+    "director": "Хамфри Дженнингс",
+    "rating": 5.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Рыбка по имени Ванда",
+    "year": 1988,
+    "country": "Великобритания",
+    "director": "Чарльз Крайтон",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кулаки в кармане",
+    "year": 1965,
+    "country": "Италия",
+    "director": "Марко Беллоккьо",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Фицкарральдо",
+    "year": 1982,
+    "country": "Германия",
+    "director": "Режиссёр: Вернер Херцог",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пять легких пьес",
+    "year": 1970,
+    "country": "США",
+    "director": "Боб Рейфелсон",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Плоть",
+    "year": 1968,
+    "country": "США",
+    "director": "Пол Моррисси",
+    "rating": 5.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Не будите спящую собаку",
+    "year": 1996,
+    "country": "США",
+    "director": "Дэвид О. Расселл",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Муха",
+    "year": 1986,
+    "country": "США",
+    "director": "Дэвид Кроненберг",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Силы зла",
+    "year": 1948,
+    "country": "США",
+    "director": "Абрахам Полонски",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Азарт удачи",
+    "year": 1966,
+    "country": "США",
+    "director": "Билли Уайлдер",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Четыре всадника Апокалипсиса",
+    "year": 1921,
+    "country": "США",
+    "director": "Рекс Ингрэм",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Четыреста ударов",
+    "year": 1959,
+    "country": "Франция",
+    "director": "Франсуа Трюффо",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Франкенштейн",
+    "year": 1931,
+    "country": "США",
+    "director": "Джеймс Уэйл",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Уродцы",
+    "year": 1932,
+    "country": "США",
+    "director": "Тод Браунинг",
+    "rating": 7.8,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Французский связной",
+    "year": 1971,
+    "country": "США",
+    "director": "Уильям Фридкин",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Подставное лицо",
+    "year": 1976,
+    "country": "США",
+    "director": "Мартин Ритт",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Беглец",
+    "year": 1993,
+    "country": "США",
+    "director": "Эндрю Дэвис",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Забавные игры",
+    "year": 1997,
+    "country": "Австрия",
+    "director": "Михаэль Ханеке",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шатание",
+    "year": 1996,
+    "country": "Великобритания",
+    "director": "Эндрю Коттинг",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сад Финци-Контини",
+    "year": 1970,
+    "country": "Италия",
+    "director": "Витторио Де Сика",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Паровоз Генерал",
+    "year": 1926,
+    "country": "США",
+    "director": "Клайд Брукман",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убрать Картера",
+    "year": 1971,
+    "country": "Великобритания",
+    "director": "Майк Ходжис",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Привидение",
+    "year": 1990,
+    "country": "США",
+    "director": "Джерри Цукер",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пёс-призрак: Путь самурая",
+    "year": 1999,
+    "country": "Франция",
+    "director": "Джим Джармуш",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Призрак в доспехах",
+    "year": 1995,
+    "country": "Япония",
+    "director": "Мамору Осии",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Призрачный мир",
+    "year": 2001,
+    "country": "США",
+    "director": "Терри Цвигофф",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Охотники за привидениями",
+    "year": 1984,
+    "country": "США",
+    "director": "Айвен Райтман",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гигант",
+    "year": 1956,
+    "country": "США",
+    "director": "Джордж Стивенс",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жижи",
+    "year": 1958,
+    "country": "США",
+    "director": "Винсент Миннелли",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гильда",
+    "year": 1946,
+    "country": "США",
+    "director": "Чарльз Видор",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дай мне кров",
+    "year": 1970,
+    "country": "США",
+    "director": "Альберт Мэйслес",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Оборотень",
+    "year": 2000,
+    "country": "Канада",
+    "director": "Джон Фоусет",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гладиатор",
+    "year": 2000,
+    "country": "США",
+    "director": "Ридли Скотт",
+    "rating": 8.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гленгарри Глен Росс (Американцы)",
+    "year": 1992,
+    "country": "США",
+    "director": "Джеймс Фоули",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Глория",
+    "year": 1980,
+    "country": "США",
+    "director": "Джон Кассаветис",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Посредник",
+    "year": 1971,
+    "country": "Великобритания",
+    "director": "Джозеф Лоузи",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крестный отец",
+    "year": 1972,
+    "country": "США",
+    "director": "Фрэнсис Форд Коппола",
+    "rating": 8.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крестный отец 2",
+    "year": 1974,
+    "country": "США",
+    "director": "Фрэнсис Форд Коппола",
+    "rating": 8.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Голдфингер",
+    "year": 1964,
+    "country": "Великобритания",
+    "director": "Гай Хэмилтон",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Голем, как он пришел в мир",
+    "year": 1920,
+    "country": "Германия",
+    "director": "Пауль Вегенер",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Унесённые ветром",
+    "year": 1939,
+    "country": "США",
+    "director": "Виктор Флеминг",
+    "rating": 8.4,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Доброй ночи и удачи",
+    "year": 2005,
+    "country": "Великобритания",
+    "director": "Джордж Клуни",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хороший, плохой, злой",
+    "year": 1966,
+    "country": "Италия",
+    "director": "Серджио Леоне",
+    "rating": 8.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Славные парни",
+    "year": 1990,
+    "country": "США",
+    "director": "Мартин Скорсезе",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Госфорд-парк",
+    "year": 2001,
+    "country": "Великобритания",
+    "director": "Роберт Олтмен",
+    "rating": 6.8,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Евангелие от Матфея",
+    "year": 1964,
+    "country": "Италия",
+    "director": "Пьер Паоло Пазолини",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Выпускник",
+    "year": 1967,
+    "country": "США",
+    "director": "Майк Николс",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большое путешествие",
+    "year": 2004,
+    "country": "Франция",
+    "director": "Исмаэль Феррухи",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большая жратва",
+    "year": 1973,
+    "country": "Франция",
+    "director": "Марко Феррери",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Великая иллюзия",
+    "year": 1937,
+    "country": "Франция",
+    "director": "Жан Ренуар",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гроздья гнева",
+    "year": 1940,
+    "country": "США",
+    "director": "Джон Форд",
+    "rating": 7.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Могила светлячков",
+    "year": 1988,
+    "country": "Япония",
+    "director": "Исао Такахата",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бриолин",
+    "year": 1978,
+    "country": "США",
+    "director": "Рэндал Клайзер",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Великий диктатор",
+    "year": 1940,
+    "country": "США",
+    "director": "Чарльз Чаплин",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большие надежды",
+    "year": 1946,
+    "country": "Великобритания",
+    "director": "Дэвид Лин",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Большое надувательство Рок-н-ролла",
+    "year": 1980,
+    "country": "Великобритания",
+    "director": "Джульен Темпл",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Алчность",
+    "year": 1924,
+    "country": "США",
+    "director": "Эрих фон Штрогейм",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Девушка Грегори",
+    "year": 1980,
+    "country": "Великобритания",
+    "director": "Билл Форсайт",
+    "rating": 5.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Серые сады",
+    "year": 1975,
+    "country": "США",
+    "director": "Эллен Джиффард",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кидалы",
+    "year": 1990,
+    "country": "США",
+    "director": "Стивен Фрирз",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек гризли",
+    "year": 2005,
+    "country": "США",
+    "director": "Вернер Херцог",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убийство в Гросс-Пойнте",
+    "year": 1997,
+    "country": "США",
+    "director": "Джордж Армитедж",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "День сурка",
+    "year": 1993,
+    "country": "США",
+    "director": "Харольд Рэмис",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гуммо",
+    "year": 1997,
+    "country": "США",
+    "director": "Хармони Корин",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Без ума от оружия",
+    "year": 1949,
+    "country": "США",
+    "director": "Джозеф Х. Льюис",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Парни и куколки",
+    "year": 1955,
+    "country": "США",
+    "director": "Джозеф Лео Манкевич",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ненависть",
+    "year": 1995,
+    "country": "Франция",
+    "director": "Матьё Кассовиц",
+    "rating": 7.8,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Муж парикмахерши",
+    "year": 1990,
+    "country": "Франция",
+    "director": "Патрис Леконт",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лак для волос",
+    "year": 1988,
+    "country": "США",
+    "director": "Джон Уотерс",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хэллоуин",
+    "year": 1978,
+    "country": "США",
+    "director": "Джон Карпентер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Счастье",
+    "year": 1998,
+    "country": "США",
+    "director": "Тодд Солондз",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Круто сваренные",
+    "year": 1992,
+    "country": "Гонконг",
+    "director": "Джон Ву",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "The Beatles: Вечер трудного дня",
+    "year": 1964,
+    "country": "Великобритания",
+    "director": "Ричард Лестер",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тернистый путь",
+    "year": 1972,
+    "country": "Ямайка",
+    "director": "Перри Хенцель",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гарольд и Мод",
+    "year": 1971,
+    "country": "США",
+    "director": "Хэл Эшби",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Харпер",
+    "year": 1966,
+    "country": "США",
+    "director": "Джек Смайт",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Призрак дома на холме",
+    "year": 1963,
+    "country": "Великобритания",
+    "director": "Роберт Уайз",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ведьмы",
+    "year": 1922,
+    "country": "Швеция",
+    "director": "Беньямин Кристенсен",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Голова",
+    "year": 1968,
+    "country": "США",
+    "director": "Боб Рейфелсон",
+    "rating": 5.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Головой о стену",
+    "year": 2003,
+    "country": "Германия",
+    "director": "Фатих Акин",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сердца и мысли",
+    "year": 1974,
+    "country": "США",
+    "director": "Питер Дэвис",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Схватка",
+    "year": 1995,
+    "country": "США",
+    "director": "Майкл Манн",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Смертельное влечение",
+    "year": 1988,
+    "country": "США",
+    "director": "Майкл Леманн",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Врата рая",
+    "year": 1980,
+    "country": "США",
+    "director": "Майкл Чимино",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Небесные создания",
+    "year": 1994,
+    "country": "Новая",
+    "director": "Режиссёр: Питер Джексон",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хедвиг и The Angry Inch",
+    "year": 2001,
+    "country": "Канада",
+    "director": "Джон Кэмерон Митчелл",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Родной край: хроники Германии",
+    "year": 1984,
+    "country": "Германия",
+    "director": "Режиссёр: Эдгар Райц",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ад — это город",
+    "year": 1960,
+    "country": "Великобритания",
+    "director": "Вэл Гест",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ад раскрылся",
+    "year": 1941,
+    "country": "США",
+    "director": "Г.К. Поттер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Генри: Портрет серийного убийцы",
+    "year": 1986,
+    "country": "США",
+    "director": "Джон МакНотон",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Король Генрих V",
+    "year": 1944,
+    "country": "Великобритания",
+    "director": "Лоуренс Оливье",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хестер-стрит",
+    "year": 1975,
+    "country": "США",
+    "director": "Джоан Миклин Сильвер",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Скрытое",
+    "year": 2004,
+    "country": "Франция",
+    "director": "Михаэль Ханеке",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ровно в полдень",
+    "year": 1952,
+    "country": "США",
+    "director": "Фред Циннеман",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Рука напрокат",
+    "year": 1971,
+    "country": "США",
+    "director": "Питер Фонда",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хиросима, моя любовь",
+    "year": 1959,
+    "country": "Франция",
+    "director": "Ален Рене",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Его девушка Пятница",
+    "year": 1939,
+    "country": "США",
+    "director": "Ховард Хоукс",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Оправданная жестокость",
+    "year": 2005,
+    "country": "США",
+    "director": "Дэвид Кроненберг",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Святая гора",
+    "year": 1973,
+    "country": "Мексика",
+    "director": "Алехандро Ходоровски",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убийцы медового месяца",
+    "year": 1970,
+    "country": "США",
+    "director": "Леонард Кастл",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Надежда и слава",
+    "year": 1987,
+    "country": "Великобритания",
+    "director": "Джон Бурмен",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Конокрад",
+    "year": 1986,
+    "country": "Китай",
+    "director": "Тянь Чжуанчжуан",
+    "rating": 5.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Типа крутые легавые",
+    "year": 2007,
+    "country": "Великобритания",
+    "director": "Эдгар Райт",
+    "rating": 7.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Часы и времена",
+    "year": 1991,
+    "country": "США",
+    "director": "Кристофер Мюнх",
+    "rating": 5.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дом летающих кинжалов",
+    "year": 2004,
+    "country": "Китай",
+    "director": "Чжан Имоу",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Обитель радости",
+    "year": 2000,
+    "country": "Великобритания",
+    "director": "Теренс Дэвис",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Музей восковых фигур",
+    "year": 1953,
+    "country": "США",
+    "director": "Андре Де Тот",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Говардс-Энд",
+    "year": 1991,
+    "country": "Великобритания",
+    "director": "Джеймс Айвори",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хад",
+    "year": 1962,
+    "country": "США",
+    "director": "Мартин Ритт",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Икота",
+    "year": 2002,
+    "country": "Венгрия",
+    "director": "Дьёрдь Пальфи",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бильярдист",
+    "year": 1961,
+    "country": "США",
+    "director": "Роберт Россен",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Я знаю, куда я иду!",
+    "year": 1945,
+    "country": "Великобритания",
+    "director": "Майкл Пауэлл",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Я гуляла с зомби",
+    "year": 1943,
+    "country": "США",
+    "director": "Жак Турнёр",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Солдат в юбке",
+    "year": 1949,
+    "country": "США",
+    "director": "Ховард Хоукс",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ледяной ветер",
+    "year": 1997,
+    "country": "Франция",
+    "director": "Энг Ли",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Идиоты",
+    "year": 1998,
+    "country": "Дания",
+    "director": "Ларс фон Триер",
+    "rating": 7.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Если...",
+    "year": 1968,
+    "country": "Великобритания",
+    "director": "Линдсей Андерсон",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жить",
+    "year": 1952,
+    "country": "Япония",
+    "director": "Акира Куросава",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Я никогда не забуду это имя",
+    "year": 1967,
+    "country": "Великобритания",
+    "director": "Майкл Уиннер",
+    "rating": 5.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В укромном месте",
+    "year": 1950,
+    "country": "США",
+    "director": "Николас Рэй",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В компании мужчин",
+    "year": 1997,
+    "country": "США",
+    "director": "Нил Лабут",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Полуночная жара",
+    "year": 1967,
+    "country": "США",
+    "director": "Норман Джуисон",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Любовное настроение",
+    "year": 2000,
+    "country": "Гонконг",
+    "director": "Вонг Кар-Вай",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Во имя отца",
+    "year": 1993,
+    "country": "Ирландия",
+    "director": "Джим Шеридан",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Империя чувств",
+    "year": 1976,
+    "country": "Япония",
+    "director": "Нагиса Осима",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В этом мире",
+    "year": 2002,
+    "country": "Великобритания",
+    "director": "Майкл Уинтерботтом",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "День независимости",
+    "year": 1996,
+    "country": "США",
+    "director": "Роланд Эммерих",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Двойная рокировка",
+    "year": 2002,
+    "country": "Гонконг",
+    "director": "Эндрю Лау",
+    "rating": 7.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Невинные",
+    "year": 1961,
+    "country": "Великобритания",
+    "director": "Джек Клейтон",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Свой человек",
+    "year": 1999,
+    "country": "США",
+    "director": "Майкл Манн",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Нетерпимость",
+    "year": 1916,
+    "country": "США",
+    "director": "Дэвид Уорк Гриффит",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вторжение похитителей тел",
+    "year": 1955,
+    "country": "США",
+    "director": "Дон Сигел",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Досье Ипкресс",
+    "year": 1965,
+    "country": "Великобритания",
+    "director": "Сидни Дж. Фьюри",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ирма Веп",
+    "year": 1996,
+    "country": "Франция",
+    "director": "Оливье Ассайас",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Стальной гигант",
+    "year": 1999,
+    "country": "США",
+    "director": "Брэд Бёрд",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Необратимость",
+    "year": 2002,
+    "country": "Франция",
+    "director": "Гаспар Ноэ",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Это случилось однажды ночью",
+    "year": 1934,
+    "country": "США",
+    "director": "Фрэнк Капра",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Эта замечательная жизнь",
+    "year": 1947,
+    "country": "США",
+    "director": "Фрэнк Капра",
+    "rating": 8.4,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Итальянская работа",
+    "year": 1969,
+    "country": "Великобритания",
+    "director": "Питер Коллинсон",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Иван Грозный",
+    "year": 1944,
+    "country": "СССР",
+    "director": "Сергей Эйзенштейн",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Иван под экстази",
+    "year": 2000,
+    "country": "Великобритания",
+    "director": "Бернард Роуз",
+    "rating": 5.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Джеки Браун",
+    "year": 1997,
+    "country": "США",
+    "director": "Квентин Тарантино",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жако из Нанта",
+    "year": 1991,
+    "country": "Франция",
+    "director": "Аньес Варда",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Япония",
+    "year": 2001,
+    "country": "Мексика",
+    "director": "Карлос Рейгадас",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ясон и аргонавты",
+    "year": 1963,
+    "country": "Великобритания",
+    "director": "Дон Чэффи",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Челюсти",
+    "year": 1975,
+    "country": "США",
+    "director": "Стивен Спилберг",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Придурок",
+    "year": 1979,
+    "country": "США",
+    "director": "Карл Райнер",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Джерри Магуайер",
+    "year": 1996,
+    "country": "США",
+    "director": "Кэмерон Кроу",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Взлетная полоса",
+    "year": 1962,
+    "country": "Франция",
+    "director": "Крис Маркер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Джонни-гитара",
+    "year": 1954,
+    "country": "США",
+    "director": "Николас Рэй",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "День начинается",
+    "year": 1939,
+    "country": "Франция",
+    "director": "Марсель Карне",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Юбилей",
+    "year": 1978,
+    "country": "Великобритания",
+    "director": "Дерек Джармен",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жюль и Джим",
+    "year": 1962,
+    "country": "Франция",
+    "director": "Франсуа Трюффо",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Книга джунглей",
+    "year": 1967,
+    "country": "США",
+    "director": "Вольфганг Райтерман",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Парк Юрского периода",
+    "year": 1993,
+    "country": "США",
+    "director": "Стивен Спилберг",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Канал",
+    "year": 1956,
+    "country": "Польша",
+    "director": "Анджей Вайда",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кандагар",
+    "year": 2001,
+    "country": "Иран",
+    "director": "Мохсен Махмальбаф",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Парень-каратист",
+    "year": 1984,
+    "country": "США",
+    "director": "Джон Г. Эвилдсен",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В руках бога",
+    "year": 2004,
+    "country": "США",
+    "director": "Лодж Х. Керриган",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кес",
+    "year": 1969,
+    "country": "Великобритания",
+    "director": "Кен Лоуч",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Детки",
+    "year": 1995,
+    "country": "США",
+    "director": "Ларри Кларк",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Забойщик овец",
+    "year": 1977,
+    "country": "США",
+    "director": "Чарльз Бёрнетт",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Наёмный убийца",
+    "year": 1989,
+    "country": "Гонконг",
+    "director": "Джон Ву",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убийцы",
+    "year": 1946,
+    "country": "США",
+    "director": "Роберт Сьодмак",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убийство китайского букмекера",
+    "year": 1976,
+    "country": "США",
+    "director": "Джон Кассаветис",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убийство",
+    "year": 1956,
+    "country": "США",
+    "director": "Стэнли Кубрик",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Добрые сердца и короны",
+    "year": 1949,
+    "country": "Великобритания",
+    "director": "Роберт Хеймер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кинг Конг",
+    "year": 1933,
+    "country": "США",
+    "director": "Мериан К. Купер",
+    "rating": 7.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Король Лир",
+    "year": 1970,
+    "country": "СССР",
+    "director": "Григорий Козинцев",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Король комедии",
+    "year": 1982,
+    "country": "США",
+    "director": "Мартин Скорсезе",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Король Нью-Йорка",
+    "year": 1989,
+    "country": "Италия",
+    "director": "Абель Феррара",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Целуй меня насмерть",
+    "year": 1955,
+    "country": "США",
+    "director": "Роберт Олдрич",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Поцелуй женщины-паука",
+    "year": 1985,
+    "country": "Бразилия",
+    "director": "Эктор Бабенко",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Клют",
+    "year": 1971,
+    "country": "США",
+    "director": "Алан Дж. Пакула",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Нож в воде",
+    "year": 1962,
+    "country": "Польша",
+    "director": "Роман Полански",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кояанискатси",
+    "year": 1983,
+    "country": "США",
+    "director": "Годфри Реджио",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кайдан: Повествование о загадочном и ужасном",
+    "year": 1964,
+    "country": "Япония",
+    "director": "Масаки Кобаяси",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Секреты Лос-Анджелеса",
+    "year": 1997,
+    "country": "США",
+    "director": "Кёртис Хэнсон",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кружевница",
+    "year": 1977,
+    "country": "Швейцария",
+    "director": "Клод Горетта",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лакомб Люсьен",
+    "year": 1974,
+    "country": "Франция",
+    "director": "Луи Маль",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Леди Ева",
+    "year": 1941,
+    "country": "США",
+    "director": "Престон Стёрджес",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убийцы леди",
+    "year": 1955,
+    "country": "Великобритания",
+    "director": "Александр Маккендрик",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лагаан: Однажды в Индии",
+    "year": 2001,
+    "country": "Индия",
+    "director": "Ашутош Говарикер",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Земля, забытая временем",
+    "year": 1974,
+    "country": "Великобритания",
+    "director": "Кевин Коннор",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лантана",
+    "year": 2001,
+    "country": "Австралия",
+    "director": "Рэй Лоуренс",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жаворонки на нити",
+    "year": 1969,
+    "country": "Чехословакия",
+    "director": "Иржи Менцель",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последние дни",
+    "year": 2004,
+    "country": "США",
+    "director": "Гас Ван Сент",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последнее метро",
+    "year": 1980,
+    "country": "Франция",
+    "director": "Франсуа Трюффо",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последний фильм",
+    "year": 1971,
+    "country": "США",
+    "director": "Деннис Хоппер",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последний киносеанс",
+    "year": 1971,
+    "country": "США",
+    "director": "Питер Богданович",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последнее пристанище",
+    "year": 2000,
+    "country": "Великобритания",
+    "director": "Павел Павликовский",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последнее соблазнение",
+    "year": 1994,
+    "country": "Великобритания",
+    "director": "Джон Дал",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Последнее танго в Париже",
+    "year": 1972,
+    "country": "Италия",
+    "director": "Бернардо Бертолуччи",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В прошлом году в Мариенбаде",
+    "year": 1961,
+    "country": "Франция",
+    "director": "Ален Рене",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лора",
+    "year": 1944,
+    "country": "США",
+    "director": "Отто Преминджер",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Банда с Лавендер Хилл",
+    "year": 1951,
+    "country": "Великобритания",
+    "director": "Чарльз Крайтон",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Закон желания",
+    "year": 1986,
+    "country": "Испания",
+    "director": "Педро Альмодовар",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лоуренс Аравийский",
+    "year": 1962,
+    "country": "Великобритания",
+    "director": "Дэвид Лин",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Покидая Лас-Вегас",
+    "year": 1995,
+    "country": "США",
+    "director": "Майк Фиггис",
+    "rating": 7.4,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Ленинградские ковбои едут в Америку",
+    "year": 1989,
+    "country": "Финляндия",
+    "director": "Аки Каурисмяки",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Леон",
+    "year": 1994,
+    "country": "Франция",
+    "director": "Люк Бессон",
+    "rating": 8.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Леопард",
+    "year": 1963,
+    "country": "Италия",
+    "director": "Лукино Висконти",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сладости жизни",
+    "year": 1990,
+    "country": "Великобритания",
+    "director": "Майк Ли",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лифт на эшафот",
+    "year": 1958,
+    "country": "Франция",
+    "director": "Луи Маль",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Чуткий сон",
+    "year": 1992,
+    "country": "США",
+    "director": "Пол Шредер",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Огни рампы",
+    "year": 1952,
+    "country": "США",
+    "director": "Чарльз Чаплин",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Англичанин",
+    "year": 1999,
+    "country": "США",
+    "director": "Стивен Содерберг",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жидкое небо",
+    "year": 1982,
+    "country": "США",
+    "director": "Слава Цукерман",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Маленький Большой Человек",
+    "year": 1970,
+    "country": "США",
+    "director": "Артур Пенн",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Маленький Цезарь",
+    "year": 1930,
+    "country": "США",
+    "director": "Мервин ЛеРой",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Живая плоть",
+    "year": 1997,
+    "country": "Испания",
+    "director": "Педро Альмодовар",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жизнь других",
+    "year": 2006,
+    "country": "Германия",
+    "director": "Флориан Хенкель фон Доннерсмарк",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Местный герой",
+    "year": 1983,
+    "country": "Великобритания",
+    "director": "Билл Форсайт",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жилец",
+    "year": 1927,
+    "country": "Великобритания",
+    "director": "Альфред Хичкок",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бегство Логана",
+    "year": 1976,
+    "country": "США",
+    "director": "Майкл Андерсон",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лола",
+    "year": 1961,
+    "country": "Франция",
+    "director": "Жак Деми",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лолита",
+    "year": 1962,
+    "country": "Великобритания",
+    "director": "Стэнли Кубрик",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лондон",
+    "year": 1994,
+    "country": "Великобритания",
+    "director": "Патрик Кейллер",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Одинокие отважны",
+    "year": 1962,
+    "country": "США",
+    "director": "Дэвид Миллер",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Долгая Страстная пятница",
+    "year": 1979,
+    "country": "Великобритания",
+    "director": "Джон Маккензи",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Долгое прощание",
+    "year": 1973,
+    "country": "США",
+    "director": "Роберт Олтмен",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Властелин колец: Братство Кольца",
+    "year": 2001,
+    "country": "Новая",
+    "director": "Режиссёр: Питер Джексон",
+    "rating": 8.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Затерянные в Ла-Манче",
+    "year": 2002,
+    "country": "Великобритания",
+    "director": "Кит Фултон",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Трудности перевода",
+    "year": 2003,
+    "country": "США",
+    "director": "София Коппола",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Затерянный мир",
+    "year": 1925,
+    "country": "США",
+    "director": "Гарри О. Хойт",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лулу",
+    "year": 1980,
+    "country": "Франция",
+    "director": "Морис Пиала",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Любовь – это дьявол",
+    "year": 1998,
+    "country": "Великобритания",
+    "director": "Джон Мэйбери",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Любовники",
+    "year": 1958,
+    "country": "Франция",
+    "director": "Луи Маль",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "М убийца",
+    "year": 1931,
+    "country": "Германия",
+    "director": "Фриц Ланг",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Каникулы господина Юло",
+    "year": 1953,
+    "country": "Франция",
+    "director": "Жак Тати",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Безумный Макс",
+    "year": 1979,
+    "country": "Австралия",
+    "director": "Джордж Миллер",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сделано в Британии",
+    "year": 1983,
+    "country": "Великобритания",
+    "director": "Алан Кларк",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Великолепная семерка",
+    "year": 1960,
+    "country": "США",
+    "director": "Джон Стёрджес",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Магнолия",
+    "year": 1999,
+    "country": "США",
+    "director": "Пол Томас Андерсон",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тусовщики из супермаркета",
+    "year": 1995,
+    "country": "США",
+    "director": "Кевин Смит",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мальтийский сокол",
+    "year": 1941,
+    "country": "США",
+    "director": "Джон Хьюстон",
+    "rating": 7.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Мама Рома",
+    "year": 1962,
+    "country": "Италия",
+    "director": "Пьер Паоло Пазолини",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек кусает собаку",
+    "year": 1992,
+    "country": "Бельгия",
+    "director": "Реми Бельво",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек, который застрелил Либерти Вэланса",
+    "year": 1962,
+    "country": "США",
+    "director": "Джон Форд",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек, который хотел быть королем",
+    "year": 1975,
+    "country": "Великобритания",
+    "director": "Джон Хьюстон",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек с киноаппаратом",
+    "year": 1929,
+    "country": "СССР",
+    "director": "Дзига Вертов",
+    "rating": 8.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек с золотой рукой",
+    "year": 1955,
+    "country": "США",
+    "director": "Отто Преминджер",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мозги набекрень",
+    "year": 1983,
+    "country": "США",
+    "director": "Карл Райнер",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Маньчжурский кандидат",
+    "year": 1962,
+    "country": "США",
+    "director": "Джон Франкенхаймер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Марат/Сад",
+    "year": 1967,
+    "country": "Великобритания",
+    "director": "Питер Брук",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Марафонец",
+    "year": 1976,
+    "country": "США",
+    "director": "Джон Шлезингер",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Замужество Марии Браун",
+    "year": 1979,
+    "country": "Германия",
+    "director": "Режиссёр: Райнер Вернер Фассбиндер",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Военно-полевой госпиталь",
+    "year": 1969,
+    "country": "США",
+    "director": "Роберт Олтмен",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Маска Сатаны",
+    "year": 1960,
+    "country": "Италия",
+    "director": "Марио Бава",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мэтуон",
+    "year": 1987,
+    "country": "США",
+    "director": "Джон Сейлз",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Матрица",
+    "year": 1999,
+    "country": "США",
+    "director": "Лана Вачовски",
+    "rating": 8.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лестница в небо",
+    "year": 1946,
+    "country": "Великобритания",
+    "director": "Майкл Пауэлл",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "МакКейб и миссис Миллер",
+    "year": 1971,
+    "country": "США",
+    "director": "Роберт Олтмен",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Я и ты и все, кого мы знаем",
+    "year": 2005,
+    "country": "США",
+    "director": "Миранда Джулай",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "С тобой и без тебя",
+    "year": 2001,
+    "country": "Великобритания",
+    "director": "Сандра Голдбахер",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дрянные девчонки",
+    "year": 2004,
+    "country": "США",
+    "director": "Марк Уотерс",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Злые улицы",
+    "year": 1973,
+    "country": "США",
+    "director": "Мартин Скорсезе",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Встреть меня в Сент-Луисе",
+    "year": 1944,
+    "country": "США",
+    "director": "Винсент Миннелли",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Знакомство с родителями",
+    "year": 2000,
+    "country": "США",
+    "director": "Джей Роуч",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мементо",
+    "year": 2000,
+    "country": "США",
+    "director": "Кристофер Нолан",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Воспоминания об убийстве",
+    "year": 2003,
+    "country": "Корея",
+    "director": "Режиссёр: Пон Джун-хо",
+    "rating": 7.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Воспоминания об отсталости",
+    "year": 1968,
+    "country": "Куба",
+    "director": "Томас Гутьеррес Алеа",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Люди в чёрном",
+    "year": 1997,
+    "country": "США",
+    "director": "Барри Зонненфельд",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мефисто",
+    "year": 1981,
+    "country": "Венгрия",
+    "director": "Иштван Сабо",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Презрение",
+    "year": 1963,
+    "country": "Франция",
+    "director": "Жан-Люк Годар",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Метрополис",
+    "year": 1927,
+    "country": "Германия",
+    "director": "Фриц Ланг",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Золотая молодежь",
+    "year": 1989,
+    "country": "США",
+    "director": "Уит Стиллман",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Микрокосмос",
+    "year": 1996,
+    "country": "Франция",
+    "director": "Клод Нуридзани",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Полуночный ковбой",
+    "year": 1969,
+    "country": "США",
+    "director": "Джон Шлезингер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Успеть до полуночи",
+    "year": 1988,
+    "country": "США",
+    "director": "Мартин Брест",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мики и Ники",
+    "year": 1976,
+    "country": "США",
+    "director": "Элейн Мей",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Милдред Пирс",
+    "year": 1945,
+    "country": "США",
+    "director": "Майкл Кёртиц",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Перекресток Миллера",
+    "year": 1990,
+    "country": "США",
+    "director": "Джоэл Коэн",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Малышка на миллион",
+    "year": 2004,
+    "country": "США",
+    "director": "Клинт Иствуд",
+    "rating": 8.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Зеркало",
+    "year": 1974,
+    "country": "СССР",
+    "director": "Андрей Тарковский",
+    "rating": 8.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Неприкаянные",
+    "year": 1961,
+    "country": "США",
+    "director": "Джон Хьюстон",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Новые времена",
+    "year": 1936,
+    "country": "США",
+    "director": "Чарльз Чаплин",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мой дядюшка",
+    "year": 1958,
+    "country": "Франция",
+    "director": "Жак Тати",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мсье Ир",
+    "year": 1989,
+    "country": "Франция",
+    "director": "Патрис Леконт",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Свадьба в сезон дождей",
+    "year": 2001,
+    "country": "Индия",
+    "director": "Мира Наир",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Монти Пайтон и Священный Грааль",
+    "year": 1975,
+    "country": "Великобритания",
+    "director": "Терри Гиллиам",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Житие Брайана по Монти Пайтон",
+    "year": 1979,
+    "country": "Великобритания",
+    "director": "Терри Джонс",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убежище",
+    "year": 2003,
+    "country": "Сенегал",
+    "director": "Усман Сембен",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Морверн Каллар",
+    "year": 2002,
+    "country": "Великобритания",
+    "director": "Линн Рэмси",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мамочка и шлюха",
+    "year": 1973,
+    "country": "Франция",
+    "director": "Жан Эсташ",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Великий Могол",
+    "year": 1960,
+    "country": "Индия",
+    "director": "К. Азиф",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Малхолланд Драйв",
+    "year": 2001,
+    "country": "США",
+    "director": "Дэвид Линч",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Свадьба Мюриэл",
+    "year": 1994,
+    "country": "Австралия",
+    "director": "П.Дж. Хоган",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мой архитектор",
+    "year": 2003,
+    "country": "США",
+    "director": "Натаниель Кан",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Моя прекрасная прачечная",
+    "year": 1985,
+    "country": "Великобритания",
+    "director": "Стивен Фрирз",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Моя блестящая карьера",
+    "year": 1979,
+    "country": "Австралия",
+    "director": "Джиллиан Армстронг",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мое детство",
+    "year": 1972,
+    "country": "Великобритания",
+    "director": "Билл Дуглас",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Моя дорогая Клементина",
+    "year": 1946,
+    "country": "США",
+    "director": "Джон Форд",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мой ужин с Андре",
+    "year": 1981,
+    "country": "США",
+    "director": "Луи Маль",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Моя прекрасная леди",
+    "year": 1964,
+    "country": "США",
+    "director": "Джордж Кьюкор",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Моя левая нога",
+    "year": 1989,
+    "country": "Ирландия",
+    "director": "Джим Шеридан",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Моя собачья жизнь",
+    "year": 1985,
+    "country": "Швеция",
+    "director": "Лассе Халльстрём",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ночь у Мод",
+    "year": 1969,
+    "country": "Франция",
+    "director": "Эрик Ромер",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мое лето любви",
+    "year": 2004,
+    "country": "Великобритания",
+    "director": "Павел Павликовский",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Обнаженная",
+    "year": 1993,
+    "country": "Великобритания",
+    "director": "Майк Ли",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Голый пистолет",
+    "year": 1988,
+    "country": "США",
+    "director": "Дэвид Цукер",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Няня",
+    "year": 1965,
+    "country": "Великобритания",
+    "director": "Сет Холт",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Нанук с Севера",
+    "year": 1922,
+    "country": "Франция",
+    "director": "Роберт Дж. Флаэрти",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Наполеон",
+    "year": 1927,
+    "country": "Франция",
+    "director": "Абель Ганс",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Нэшвилл",
+    "year": 1975,
+    "country": "США",
+    "director": "Роберт Олтмен",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Почти стемнело",
+    "year": 1987,
+    "country": "США",
+    "director": "Кэтрин Бигелоу",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ночь и город",
+    "year": 1950,
+    "country": "Великобритания",
+    "director": "Жюль Дассен",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вечер в опере",
+    "year": 1935,
+    "country": "США",
+    "director": "Сэм Вуд",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ночь охотника",
+    "year": 1955,
+    "country": "США",
+    "director": "Чарльз Лотон",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ночь живых мертвецов",
+    "year": 1968,
+    "country": "США",
+    "director": "Джордж А. Ромеро",
+    "rating": 7.2,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Аллея кошмаров",
+    "year": 1947,
+    "country": "США",
+    "director": "Эдмунд Гулдинг",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кошмар на улице Вязов",
+    "year": 1984,
+    "country": "США",
+    "director": "Уэс Крэйвен",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ночи Кабирии",
+    "year": 1957,
+    "country": "Италия",
+    "director": "Федерико Феллини",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Никита",
+    "year": 1990,
+    "country": "Франция",
+    "director": "Люк Бессон",
+    "rating": 7.2,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Не глотать",
+    "year": 1997,
+    "country": "Великобритания",
+    "director": "Гари Олдман",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ниночка",
+    "year": 1939,
+    "country": "США",
+    "director": "Эрнст Любич",
+    "rating": 7.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Девятая конфигурация",
+    "year": 1980,
+    "country": "США",
+    "director": "Уильям Питер Блэтти",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Север",
+    "year": 1983,
+    "country": "Великобритания",
+    "director": "Грегори Нава",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На север через северо-запад",
+    "year": 1959,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Носферату, симфония ужаса",
+    "year": 1922,
+    "country": "Германия",
+    "director": "Фридрих Вильгельм Мурнау",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дурная слава",
+    "year": 1946,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вперед, путешественник",
+    "year": 1942,
+    "country": "США",
+    "director": "Ирвинг Раппер",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Нигде в Африке",
+    "year": 2001,
+    "country": "Германия",
+    "director": "Каролина Линк",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Одиннадцать друзей Оушена",
+    "year": 2001,
+    "country": "США",
+    "director": "Стивен Содерберг",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Выбывший из игры",
+    "year": 1947,
+    "country": "Великобритания",
+    "director": "Кэрол Рид",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Про уродов и людей",
+    "year": 1998,
+    "country": "Россия",
+    "director": "Алексей Балабанов",
+    "rating": 7.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Офисное пространство",
+    "year": 1999,
+    "country": "США",
+    "director": "Майк Джадж",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Олдбой",
+    "year": 2003,
+    "country": "Корея",
+    "director": "Режиссёр: Пак Чхан-ук",
+    "rating": 8.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Оливер Твист",
+    "year": 1948,
+    "country": "Великобритания",
+    "director": "Дэвид Лин",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Забытые",
+    "year": 1950,
+    "country": "Мексика",
+    "director": "Луис Бунюэль",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Олимпия",
+    "year": 1938,
+    "country": "Германия",
+    "director": "Лени Рифеншталь",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Омен",
+    "year": 1976,
+    "country": "Великобритания",
+    "director": "Ричард Доннер",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Увольнение в город",
+    "year": 1949,
+    "country": "США",
+    "director": "Стэнли Донен",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В порту",
+    "year": 1954,
+    "country": "США",
+    "director": "Элиа Казан",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Однажды в Америке",
+    "year": 1983,
+    "country": "США",
+    "director": "Серджио Леоне",
+    "rating": 8.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Однажды в Китае",
+    "year": 1991,
+    "country": "Гонконг",
+    "director": "Цуй Харк",
+    "rating": 7.2,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Однажды на Диком Западе",
+    "year": 1968,
+    "country": "Италия",
+    "director": "Серджио Леоне",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Одноглазые валеты",
+    "year": 1961,
+    "country": "США",
+    "director": "Марлон Брандо",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Один неверный ход",
+    "year": 1992,
+    "country": "США",
+    "director": "Карл Франклин",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пролетая над гнездом кукушки",
+    "year": 1975,
+    "country": "США",
+    "director": "Милош Форман",
+    "rating": 8.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Миллион лет до нашей эры",
+    "year": 1966,
+    "country": "Великобритания",
+    "director": "Дон Чэффи",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пропавший динозавр",
+    "year": 1975,
+    "country": "Великобритания",
+    "director": "Роберт Стивенсон",
+    "rating": 5.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Женщина-демон",
+    "year": 1964,
+    "country": "Япония",
+    "director": "Канэто Синдо",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Орландо",
+    "year": 1992,
+    "country": "Великобритания",
+    "director": "Салли Поттер",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Орфей",
+    "year": 1950,
+    "country": "Франция",
+    "director": "Жан Кокто",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Усама",
+    "year": 2003,
+    "country": "Афганистан",
+    "director": "Сиддик Бармак",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Другие",
+    "year": 2001,
+    "country": "Испания",
+    "director": "Алехандро Аменабар",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Вне поля зрения",
+    "year": 1998,
+    "country": "США",
+    "director": "Стивен Содерберг",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Из прошлого",
+    "year": 1947,
+    "country": "США",
+    "director": "Жак Турнёр",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Джоси Уэйлс – человек вне закона",
+    "year": 1976,
+    "country": "США",
+    "director": "Клинт Иствуд",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Изгои",
+    "year": 1983,
+    "country": "США",
+    "director": "Фрэнсис Форд Коппола",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ящик Пандоры",
+    "year": 1929,
+    "country": "Германия",
+    "director": "Георг Вильгельм Пабст",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лабиринт Фавна",
+    "year": 2006,
+    "country": "Мексика",
+    "director": "Гильермо дель Торо",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Заговор «Параллакс»",
+    "year": 1974,
+    "country": "США",
+    "director": "Алан Дж. Пакула",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Родители",
+    "year": 1988,
+    "country": "Канада",
+    "director": "Боб Балабан",
+    "rating": 5.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Париж, Техас",
+    "year": 1984,
+    "country": "Германия",
+    "director": "Режиссёр: Вим Вендерс",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Страсти Жанны д'Арк",
+    "year": 1928,
+    "country": "Франция",
+    "director": "Карл Теодор Дрейер",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пэт Гэрретт и Билли Кид",
+    "year": 1973,
+    "country": "США",
+    "director": "Сэм Пекинпа",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Песнь дороги",
+    "year": 1955,
+    "country": "Индия",
+    "director": "Сатьяджит Рай",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Подглядывающий",
+    "year": 1960,
+    "country": "Великобритания",
+    "director": "Майкл Пауэлл",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Люди в воскресенье",
+    "year": 1930,
+    "country": "Германия",
+    "director": "Роберт Сьодмак",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пепе ле Моко",
+    "year": 1936,
+    "country": "Франция",
+    "director": "Жюльен Дювивье",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Представление",
+    "year": 1970,
+    "country": "Великобритания",
+    "director": "Дональд Кэммелл",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Маленькая воровка",
+    "year": 1988,
+    "country": "Франция",
+    "director": "Клод Миллер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Филадельфийская история",
+    "year": 1940,
+    "country": "США",
+    "director": "Джордж Кьюкор",
+    "rating": 7.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Пи",
+    "year": 1997,
+    "country": "США",
+    "director": "Даррен Аронофски",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пианистка",
+    "year": 2001,
+    "country": "Франция",
+    "director": "Михаэль Ханеке",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пианино",
+    "year": 1992,
+    "country": "Австралия",
+    "director": "Джейн Кэмпион",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пиккадилли",
+    "year": 1929,
+    "country": "Великобритания",
+    "director": "Эвальд Андре Дюпон",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Карманник",
+    "year": 1959,
+    "country": "Франция",
+    "director": "Робер Брессон",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пикник у Висячей скалы",
+    "year": 1975,
+    "country": "Австралия",
+    "director": "Питер Уир",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Розовые фламинго",
+    "year": 1972,
+    "country": "США",
+    "director": "Джон Уотерс",
+    "rating": 5.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Стена",
+    "year": 1982,
+    "country": "Великобритания",
+    "director": "Алан Паркер",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Розовая пантера",
+    "year": 1963,
+    "country": "США",
+    "director": "Блейк Эдвардс",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пираты Карибского моря: Проклятие Черной жемчужины",
+    "year": 2003,
+    "country": "США",
+    "director": "Гор Вербински",
+    "rating": 8.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пишоте: Закон самого слабого",
+    "year": 1980,
+    "country": "Бразилия",
+    "director": "Эктор Бабенко",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Планета обезьян",
+    "year": 1967,
+    "country": "США",
+    "director": "Франклин Дж. Шаффнер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Взвод",
+    "year": 1986,
+    "country": "США",
+    "director": "Оливер Стоун",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сыграй это еще раз, Сэм!",
+    "year": 1972,
+    "country": "США",
+    "director": "Херберт Росс",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Игрок",
+    "year": 1992,
+    "country": "США",
+    "director": "Роберт Олтмен",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Время развлечений",
+    "year": 1967,
+    "country": "Франция",
+    "director": "Жак Тати",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На ярком солнце",
+    "year": 1960,
+    "country": "Франция",
+    "director": "Рене Клеман",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В упор",
+    "year": 1967,
+    "country": "США",
+    "director": "Джон Бурмен",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На гребне волны",
+    "year": 1991,
+    "country": "Япония",
+    "director": "Кэтрин Бигелоу",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Полицейская история",
+    "year": 1985,
+    "country": "Гонконг",
+    "director": "Джеки Чан",
+    "rating": 7.8,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Полтергейст",
+    "year": 1982,
+    "country": "США",
+    "director": "Тоуб Хупер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Почтальон всегда звонит дважды",
+    "year": 1946,
+    "country": "США",
+    "director": "Тэй Гарнетт",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Хищник",
+    "year": 1987,
+    "country": "США",
+    "director": "Джон Мактирнан",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Милашка в розовом",
+    "year": 1986,
+    "country": "США",
+    "director": "Ховард Дойч",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Расцвет мисс Джин Броди",
+    "year": 1968,
+    "country": "Великобритания",
+    "director": "Рональд Ним",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Принцесса-невеста",
+    "year": 1987,
+    "country": "США",
+    "director": "Роб Райнер",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Продюсеры",
+    "year": 1968,
+    "country": "США",
+    "director": "Мэл Брукс",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Психо",
+    "year": 1960,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Птанг. Янг. Киппербанг.",
+    "year": 1982,
+    "country": "Великобритания",
+    "director": "Майкл Аптед",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Враг общества",
+    "year": 1931,
+    "country": "США",
+    "director": "Уильям А. Уэллмен",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Криминальное чтиво",
+    "year": 1994,
+    "country": "США",
+    "director": "Квентин Тарантино",
+    "rating": 8.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Качая железо",
+    "year": 1976,
+    "country": "США",
+    "director": "Джордж Батлер",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пурпурный дождь",
+    "year": 1984,
+    "country": "США",
+    "director": "Альберт Магноли",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Квадрофения",
+    "year": 1979,
+    "country": "Великобритания",
+    "director": "Фрэнк Роддэм",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Телевикторина",
+    "year": 1994,
+    "country": "США",
+    "director": "Роберт Редфорд",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Радио в эфире",
+    "year": 1979,
+    "country": "Великобритания",
+    "director": "Кристофер Петит",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бешеный бык",
+    "year": 1980,
+    "country": "США",
+    "director": "Мартин Скорсезе",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Индиана Джонс: В поисках утраченного ковчега",
+    "year": 1981,
+    "country": "США",
+    "director": "Стивен Спилберг",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ран",
+    "year": 1985,
+    "country": "Япония",
+    "director": "Акира Куросава",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пресловутое ранчо",
+    "year": 1952,
+    "country": "США",
+    "director": "Фриц Ланг",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Расёмон",
+    "year": 1950,
+    "country": "Япония",
+    "director": "Акира Куросава",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Реаниматор",
+    "year": 1985,
+    "country": "США",
+    "director": "Стюарт Гордон",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Окно во двор",
+    "year": 1954,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ребекка",
+    "year": 1940,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Бунтарь без причины",
+    "year": 1955,
+    "country": "США",
+    "director": "Николас Рэй",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Придорожное заведение",
+    "year": 1992,
+    "country": "США",
+    "director": "Джон Дал",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Красный гаолян",
+    "year": 1988,
+    "country": "Китай",
+    "director": "Чжан Имоу",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Покаяние",
+    "year": 1984,
+    "country": "СССР",
+    "director": "Тенгиз Абуладзе",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Конфискатор",
+    "year": 1984,
+    "country": "США",
+    "director": "Алекс Кокс",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Реквием по мечте",
+    "year": 2000,
+    "country": "США",
+    "director": "Даррен Аронофски",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бешеные псы",
+    "year": 1991,
+    "country": "США",
+    "director": "Квентин Тарантино",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Возвращение Мартина Герра",
+    "year": 1982,
+    "country": "Франция",
+    "director": "Даниэль Винь",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Скачи по высокогорью",
+    "year": 1962,
+    "country": "США",
+    "director": "Сэм Пекинпа",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Отбросы общества",
+    "year": 1991,
+    "country": "Великобритания",
+    "director": "Кен Лоуч",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мужские разборки",
+    "year": 1955,
+    "country": "Франция",
+    "director": "Жюль Дассен",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Парни что надо",
+    "year": 1983,
+    "country": "США",
+    "director": "Филип Кауфман",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Звонок",
+    "year": 1998,
+    "country": "Япония",
+    "director": "Хидэо Наката",
+    "rating": 7.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Рио Браво",
+    "year": 1958,
+    "country": "США",
+    "director": "Ховард Хоукс",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Рискованный бизнес",
+    "year": 1983,
+    "country": "США",
+    "director": "Пол Брикман",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Рита, Сью и Боб тоже",
+    "year": 1987,
+    "country": "Великобритания",
+    "director": "Алан Кларк",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На берегу реки",
+    "year": 1986,
+    "country": "США",
+    "director": "Тим Хантер",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Роберто Зукко",
+    "year": 2001,
+    "country": "Франция",
+    "director": "Седрик Кан",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Робокоп",
+    "year": 1987,
+    "country": "США",
+    "director": "Пол Верховен",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Высшая школа рок-н-ролла",
+    "year": 1979,
+    "country": "США",
+    "director": "Аллан Аркуш",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Роджер и я",
+    "year": 1989,
+    "country": "США",
+    "director": "Майкл Мур",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Роллербол",
+    "year": 1975,
+    "country": "Великобритания",
+    "director": "Норман Джуисон",
+    "rating": 6.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Римские каникулы",
+    "year": 1953,
+    "country": "США",
+    "director": "Уильям Уайлер",
+    "rating": 8.3,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Рим, открытый город",
+    "year": 1945,
+    "country": "Италия",
+    "director": "Роберто Росселлини",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Путь в высшее общество",
+    "year": 1958,
+    "country": "Великобритания",
+    "director": "Джек Клейтон",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Комната с видом",
+    "year": 1985,
+    "country": "Великобритания",
+    "director": "Джеймс Айвори",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ребенок Розмари",
+    "year": 1968,
+    "country": "США",
+    "director": "Роман Полански",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Руд Бой",
+    "year": 1980,
+    "country": "Великобритания",
+    "director": "Джек Хазан",
+    "rating": 5.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Правила игры",
+    "year": 1939,
+    "country": "Франция",
+    "director": "Жан Ренуар",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бойцовая рыбка",
+    "year": 1983,
+    "country": "США",
+    "director": "Фрэнсис Форд Коппола",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бегун",
+    "year": 1984,
+    "country": "Иран",
+    "director": "Амир Надери",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На холостом ходу",
+    "year": 1988,
+    "country": "США",
+    "director": "Сидни Люмет",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Академия Рашмор",
+    "year": 1998,
+    "country": "США",
+    "director": "Уэс Андерсон",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сабрина",
+    "year": 1954,
+    "country": "США",
+    "director": "Билли Уайлдер",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Спасение",
+    "year": 1995,
+    "country": "США",
+    "director": "Тодд Хейнс",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Салам, Бомбей",
+    "year": 1988,
+    "country": "Индия",
+    "director": "Мира Наир",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сало, или 120 дней Содома",
+    "year": 1975,
+    "country": "Италия",
+    "director": "Пьер Паоло Пазолини",
+    "rating": 5.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Самурай",
+    "year": 1967,
+    "country": "Франция",
+    "director": "Жан-Пьер Мельвиль",
+    "rating": 7.8,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Без солнца",
+    "year": 1982,
+    "country": "Франция",
+    "director": "Крис Маркер",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Управляющий Сансё",
+    "year": 1954,
+    "country": "Япония",
+    "director": "Кэндзи Мидзогути",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В субботу вечером, в воскресенье утром",
+    "year": 1960,
+    "country": "Великобритания",
+    "director": "Карел Рейш",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лихорадка субботнего вечера",
+    "year": 1977,
+    "country": "США",
+    "director": "Джон Бэдэм",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дикие ночи",
+    "year": 1992,
+    "country": "Франция",
+    "director": "Сирил Коллар",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Спасти рядового Райана",
+    "year": 1998,
+    "country": "США",
+    "director": "Стивен Спилберг",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лицо со шрамом",
+    "year": 1983,
+    "country": "США",
+    "director": "Брайан Де Пальма",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Аромат зеленой папайи",
+    "year": 1992,
+    "country": "Франция",
+    "director": "Чан Ань Хунг",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Наука сна",
+    "year": 2006,
+    "country": "Франция",
+    "director": "Мишель Гондри",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Восход Скорпиона",
+    "year": 1963,
+    "country": "США",
+    "director": "Кеннет Энгер",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Охрана",
+    "year": 1993,
+    "country": "Италия",
+    "director": "Рикки Тоньяцци",
+    "rating": 5.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крик",
+    "year": 1996,
+    "country": "США",
+    "director": "Уэс Крэйвен",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Искатели",
+    "year": 1956,
+    "country": "США",
+    "director": "Джон Форд",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Никому не известный герой",
+    "year": 1996,
+    "country": "Франция",
+    "director": "Жак Одиар",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мамочка-маньячка-убийца",
+    "year": 1994,
+    "country": "США",
+    "director": "Джон Уотерс",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Слуга",
+    "year": 1963,
+    "country": "Великобритания",
+    "director": "Джозеф Лоузи",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Подстава",
+    "year": 1949,
+    "country": "США",
+    "director": "Роберт Уайз",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Семь",
+    "year": 1995,
+    "country": "США",
+    "director": "Дэвид Финчер",
+    "rating": 8.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Семь самураев",
+    "year": 1954,
+    "country": "Япония",
+    "director": "Акира Куросава",
+    "rating": 8.2,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Седьмая печать",
+    "year": 1957,
+    "country": "Швеция",
+    "director": "Ингмар Бергман",
+    "rating": 8.1,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Секс, ложь и видео",
+    "year": 1989,
+    "country": "США",
+    "director": "Стивен Содерберг",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сексуальная тварь",
+    "year": 2000,
+    "country": "Великобритания",
+    "director": "Джонатан Глейзер",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тени",
+    "year": 1958,
+    "country": "США",
+    "director": "Джон Кассаветис",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шафт",
+    "year": 1971,
+    "country": "США",
+    "director": "Гордон Паркс",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шейн",
+    "year": 1953,
+    "country": "США",
+    "director": "Джордж Стивенс",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Зомби по имени Шон",
+    "year": 2004,
+    "country": "Великобритания",
+    "director": "Эдгар Райт",
+    "rating": 7.3,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Побег из Шоушенка",
+    "year": 1994,
+    "country": "США",
+    "director": "Фрэнк Дарабонт",
+    "rating": 9.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ей это нужно позарез",
+    "year": 1986,
+    "country": "США",
+    "director": "Спайк Ли",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сияние",
+    "year": 1980,
+    "country": "США",
+    "director": "Стэнли Кубрик",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шоа",
+    "year": 1985,
+    "country": "Франция",
+    "director": "Клод Ланзманн",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шоковый коридор",
+    "year": 1963,
+    "country": "США",
+    "director": "Сэмюэл Фуллер",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Месть и закон",
+    "year": 1975,
+    "country": "Индия",
+    "director": "Рамеш Сиппи",
+    "rating": 7.8,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Стреляйте в пианиста",
+    "year": 1960,
+    "country": "Франция",
+    "director": "Франсуа Трюффо",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Короткий монтаж",
+    "year": 1993,
+    "country": "США",
+    "director": "Роберт Олтмен",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Короткий фильм об убийстве",
+    "year": 1987,
+    "country": "Польша",
+    "director": "Кшиштоф Кесьлёвский",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шрэк",
+    "year": 2001,
+    "country": "США",
+    "director": "Эндрю Адамсон",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На обочине",
+    "year": 2004,
+    "country": "США",
+    "director": "Александр Пэйн",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Молчание ягнят",
+    "year": 1990,
+    "country": "США",
+    "director": "Джонатан Демме",
+    "rating": 8.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Молчаливое бегство",
+    "year": 1972,
+    "country": "США",
+    "director": "Дуглас Трамбалл",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Силквуд",
+    "year": 1983,
+    "country": "США",
+    "director": "Майк Николс",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Поющие под дождем",
+    "year": 1951,
+    "country": "США",
+    "director": "Стэнли Донен",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сэр Генри с Равилсон Энд",
+    "year": 1980,
+    "country": "Великобритания",
+    "director": "Стив Робертс",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шестое чувство",
+    "year": 1999,
+    "country": "США",
+    "director": "М. Найт Шьямалан",
+    "rating": 8.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бездельник",
+    "year": 1990,
+    "country": "США",
+    "director": "Ричард Линклейтер",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сонная Лощина",
+    "year": 1999,
+    "country": "США",
+    "director": "Тим Бёртон",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Игра на вылет",
+    "year": 1972,
+    "country": "Великобритания",
+    "director": "Джозеф Лео Манкевич",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Трущобы Беверли Хиллз",
+    "year": 1998,
+    "country": "США",
+    "director": "Тамара Дженкинс",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Маленькие личики",
+    "year": 1996,
+    "country": "Великобритания",
+    "director": "Гиллис МакКиннон",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Маленький мир Сэмми Ли",
+    "year": 1963,
+    "country": "Великобритания",
+    "director": "Кен Хьюз",
+    "rating": null,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Улыбки летней ночи",
+    "year": 1955,
+    "country": "Швеция",
+    "director": "Ингмар Бергман",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Белоснежка и семь гномов",
+    "year": 1937,
+    "country": "США",
+    "director": "Уильям Коттрелл",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Солярис",
+    "year": 1972,
+    "country": "СССР",
+    "director": "Андрей Тарковский",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "В джазе только девушки",
+    "year": 1959,
+    "country": "США",
+    "director": "Билли Уайлдер",
+    "rating": 8.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сонатина",
+    "year": 1993,
+    "country": "Япония",
+    "director": "Такеши Китано",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Песни со второго этажа",
+    "year": 2000,
+    "country": "Швеция",
+    "director": "Рой Андерссон",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сыновья и любовники",
+    "year": 1960,
+    "country": "Великобритания",
+    "director": "Джек Кардифф",
+    "rating": 5.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Комната сына",
+    "year": 2001,
+    "country": "Италия",
+    "director": "Нанни Моретти",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Печаль и жалость",
+    "year": 1969,
+    "country": "Швейцария",
+    "director": "Марсель Офюльс",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Юг",
+    "year": 1919,
+    "country": "Австралия",
+    "director": "Фрэнк Хёрли",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Южный Парк: Большой, длинный, необрезанный",
+    "year": 1999,
+    "country": "США",
+    "director": "Трей Паркер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Я – Куба",
+    "year": 1964,
+    "country": "Куба",
+    "director": "Михаил Калатозов",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Зеленый сойлент",
+    "year": 1973,
+    "country": "США",
+    "director": "Ричард Флейшер",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Раскрепощение",
+    "year": 1994,
+    "country": "США",
+    "director": "Дэвид О. Расселл",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Спартак",
+    "year": 1960,
+    "country": "США",
+    "director": "Стэнли Кубрик",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Скорость",
+    "year": 1994,
+    "country": "США",
+    "director": "Ян де Бонт",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек-паук",
+    "year": 2002,
+    "country": "США",
+    "director": "Сэм Рэйми",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Винтовая лестница",
+    "year": 1946,
+    "country": "США",
+    "director": "Роберт Сьодмак",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дух улья",
+    "year": 1973,
+    "country": "Испания",
+    "director": "Виктор Эрисе",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Унесённые призраками",
+    "year": 2001,
+    "country": "Япония",
+    "director": "Хаяо Миядзаки",
+    "rating": 8.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Весна, лето, осень, зима... и снова весна",
+    "year": 2003,
+    "country": "Корея",
+    "director": "Режиссёр: Ким Ки Дук",
+    "rating": 7.9,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Шпион, который меня любил",
+    "year": 1977,
+    "country": "Великобритания",
+    "director": "Льюис Гилберт",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Огни святого Эльма",
+    "year": 1985,
+    "country": "США",
+    "director": "Джоэл Шумахер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Останься со мной",
+    "year": 1986,
+    "country": "США",
+    "director": "Роб Райнер",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Звёздные войны: Эпизод 4 – Новая надежда",
+    "year": 1977,
+    "country": "США",
+    "director": "Джордж Лукас",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Звездный десант",
+    "year": 1997,
+    "country": "США",
+    "director": "Пол Верховен",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пароходный Билл",
+    "year": 1928,
+    "country": "США",
+    "director": "Чарльз Райснер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Афера",
+    "year": 1973,
+    "country": "США",
+    "director": "Джордж Рой Хилл",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дорога",
+    "year": 1954,
+    "country": "Италия",
+    "director": "Федерико Феллини",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Более странно, чем в раю",
+    "year": 1984,
+    "country": "США",
+    "director": "Джим Джармуш",
+    "rating": 7.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Незнакомцы в поезде",
+    "year": 1951,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Соломенные псы",
+    "year": 1971,
+    "country": "Великобритания",
+    "director": "Сэм Пекинпа",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Трамвай «Желание»",
+    "year": 1951,
+    "country": "США",
+    "director": "Элиа Казан",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Танцы без правил",
+    "year": 1992,
+    "country": "Австралия",
+    "director": "Баз Лурман",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Странствия Салливана",
+    "year": 1941,
+    "country": "США",
+    "director": "Престон Стёрджес",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Восход солнца",
+    "year": 1927,
+    "country": "США",
+    "director": "Фридрих Вильгельм Мурнау",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сансет бульвар",
+    "year": 1950,
+    "country": "США",
+    "director": "Билли Уайлдер",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Суперфлай",
+    "year": 1972,
+    "country": "США",
+    "director": "Гордон Паркс мл.",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Супермен",
+    "year": 1978,
+    "country": "США",
+    "director": "Ричард Доннер",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Абсолютно точно",
+    "year": 1985,
+    "country": "США",
+    "director": "Роб Райнер",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Суспирия",
+    "year": 1977,
+    "country": "Италия",
+    "director": "Дарио Ардженто",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Швы",
+    "year": 1993,
+    "country": "США",
+    "director": "Скотт МакГихи",
+    "rating": 5.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Славное будущее",
+    "year": 1997,
+    "country": "Канада",
+    "director": "Атом Эгоян",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сладкий запах успеха",
+    "year": 1957,
+    "country": "США",
+    "director": "Александр Маккендрик",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Свит Свитбэк: Песня мерзавца",
+    "year": 1971,
+    "country": "США",
+    "director": "Мелвин Ван Пиблз",
+    "rating": 5.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Пловец",
+    "year": 1968,
+    "country": "США",
+    "director": "Фрэнк Перри",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тусовщики",
+    "year": 1996,
+    "country": "США",
+    "director": "Даг Лайман",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Захват поезда Пелэм 1-2-3",
+    "year": 1974,
+    "country": "США",
+    "director": "Джозеф Сарджент",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Роман о лисе",
+    "year": 1937,
+    "country": "Франция",
+    "director": "Ирен Старевич",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Талантливый мистер Рипли",
+    "year": 1999,
+    "country": "США",
+    "director": "Энтони Мингелла",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Одуванчик",
+    "year": 1985,
+    "country": "Япония",
+    "director": "Дзюдзо Итами",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вкус вишни",
+    "year": 1997,
+    "country": "Иран",
+    "director": "Аббас Киаростами",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Таксист",
+    "year": 1976,
+    "country": "США",
+    "director": "Мартин Скорсезе",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Отряд «Америка»: Всемирная полиция",
+    "year": 2004,
+    "country": "США",
+    "director": "Трей Паркер",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Слезы черного тигра",
+    "year": 2000,
+    "country": "Таиланд",
+    "director": "Висит Сасанатьенг",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "10 причин моей ненависти",
+    "year": 1999,
+    "country": "США",
+    "director": "Джил Джангер",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Терминатор",
+    "year": 1984,
+    "country": "США",
+    "director": "Джеймс Кэмерон",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Терминатор 2: Судный день",
+    "year": 1991,
+    "country": "США",
+    "director": "Джеймс Кэмерон",
+    "rating": 8.4,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Тэцуо, железный человек",
+    "year": 1989,
+    "country": "Япония",
+    "director": "Синъя Цукамото",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Техасская резня бензопилой",
+    "year": 1974,
+    "country": "США",
+    "director": "Тоуб Хупер",
+    "rating": 6.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Тельма и Луиза",
+    "year": 1991,
+    "country": "США",
+    "director": "Ридли Скотт",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Все без ума от Мэри",
+    "year": 1998,
+    "country": "США",
+    "director": "Бобби Фаррелли",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Проклятые",
+    "year": 1962,
+    "country": "Великобритания",
+    "director": "Джозеф Лоузи",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Они живут по ночам",
+    "year": 1948,
+    "country": "США",
+    "director": "Николас Рэй",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Багдадский вор",
+    "year": 1940,
+    "country": "Великобритания",
+    "director": "Людвиг Бергер",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тонкая голубая линия",
+    "year": 1988,
+    "country": "США",
+    "director": "Эррол Моррис",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Нечто",
+    "year": 1951,
+    "country": "США",
+    "director": "Кристиан Найби",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Облик грядущего",
+    "year": 1936,
+    "country": "Великобритания",
+    "director": "Уильям Кэмерон Мензиес",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Третий человек",
+    "year": 1949,
+    "country": "Великобритания",
+    "director": "Кэрол Рид",
+    "rating": 7.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "39 ступеней",
+    "year": 1935,
+    "country": "Великобритания",
+    "director": "Альфред Хичкок",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тридцать две истории о Гленне Гульде",
+    "year": 1993,
+    "country": "Канада",
+    "director": "Франсуа Жирар",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Это – Spinal Tap",
+    "year": 1984,
+    "country": "США",
+    "director": "Роб Райнер",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Такова спортивная жизнь",
+    "year": 1963,
+    "country": "Великобритания",
+    "director": "Линдсей Андерсон",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Афера Томаса Крауна",
+    "year": 1968,
+    "country": "США",
+    "director": "Норман Джуисон",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Воздушные приключения",
+    "year": 1965,
+    "country": "Великобритания",
+    "director": "Кен Эннакин",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Три цвета: Синий",
+    "year": 1993,
+    "country": "Франция",
+    "director": "Кшиштоф Кесьлёвский",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Три короля",
+    "year": 1999,
+    "country": "США",
+    "director": "Дэвид О. Расселл",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Три мушкетера",
+    "year": 1973,
+    "country": "США",
+    "director": "Ричард Лестер",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Трон в крови",
+    "year": 1957,
+    "country": "Япония",
+    "director": "Акира Куросава",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шаровая молния",
+    "year": 1965,
+    "country": "Великобритания",
+    "director": "Теренс Янг",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Галактика THX-1138",
+    "year": 1971,
+    "country": "США",
+    "director": "Джордж Лукас",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Время цыган",
+    "year": 1988,
+    "country": "Югославия",
+    "director": "Эмир Кустурица",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тайм аут",
+    "year": 2001,
+    "country": "Франция",
+    "director": "Лоран Канте",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Обретенное время",
+    "year": 1999,
+    "country": "Франция",
+    "director": "Рауль Руис",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Время жить и время умирать",
+    "year": 1985,
+    "country": "Тайвань",
+    "director": "Хоу Сяосянь",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Тайм-код",
+    "year": 2000,
+    "country": "США",
+    "director": "Майк Фиггис",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жестяной барабан",
+    "year": 1979,
+    "country": "Германия",
+    "director": "Режиссёр: Фолькер Шлёндорф",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Титаник",
+    "year": 1997,
+    "country": "США",
+    "director": "Джеймс Кэмерон",
+    "rating": 8.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Быть или не быть",
+    "year": 1942,
+    "country": "США",
+    "director": "Эрнст Любич",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Иметь и не иметь",
+    "year": 1944,
+    "country": "США",
+    "director": "Ховард Хоукс",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Убить пересмешника",
+    "year": 1962,
+    "country": "США",
+    "director": "Роберт Маллиган",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вместе",
+    "year": 2000,
+    "country": "Швеция",
+    "director": "Лукас Мудиссон",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Токийский скиталец",
+    "year": 1966,
+    "country": "Япония",
+    "director": "Сэйдзюн Судзуки",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Токийская повесть",
+    "year": 1953,
+    "country": "Япония",
+    "director": "Ясудзиро Одзу",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Том Джонс",
+    "year": 1963,
+    "country": "Великобритания",
+    "director": "Тони Ричардсон",
+    "rating": 6.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Томми",
+    "year": 1975,
+    "country": "Великобритания",
+    "director": "Кен Рассел",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Лучший стрелок",
+    "year": 1986,
+    "country": "США",
+    "director": "Тони Скотт",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Крот",
+    "year": 1970,
+    "country": "Мексика",
+    "director": "Алехандро Ходоровски",
+    "rating": 7.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Печать зла",
+    "year": 1958,
+    "country": "США",
+    "director": "Орсон Уэллс",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Касание Дзен",
+    "year": 1971,
+    "country": "Тайвань",
+    "director": "Кинг Ху",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Касаясь пустоты",
+    "year": 2003,
+    "country": "Великобритания",
+    "director": "Кевин Макдональд",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "История игрушек",
+    "year": 1995,
+    "country": "США",
+    "director": "Джон Лассетер",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Поезд",
+    "year": 1964,
+    "country": "Франция",
+    "director": "Джон Франкенхаймер",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "На игле",
+    "year": 1995,
+    "country": "Великобритания",
+    "director": "Дэнни Бойл",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сокровища Сьерра Мадре",
+    "year": 1947,
+    "country": "США",
+    "director": "Джон Хьюстон",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Истина в вине",
+    "year": 1996,
+    "country": "США",
+    "director": "Стив Бушеми",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Процесс",
+    "year": 1962,
+    "country": "Франция",
+    "director": "Орсон Уэллс",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Триумф воли",
+    "year": 1935,
+    "country": "Германия",
+    "director": "Лени Рифеншталь",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Трон",
+    "year": 1982,
+    "country": "США",
+    "director": "Стивен Лисбергер",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Слишком красивая для тебя",
+    "year": 1989,
+    "country": "Франция",
+    "director": "Бертран Блие",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "12 обезьян",
+    "year": 1995,
+    "country": "США",
+    "director": "Терри Гиллиам",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Круглосуточные тусовщики",
+    "year": 2001,
+    "country": "Великобритания",
+    "director": "Майкл Уинтерботтом",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Двухполосное шоссе",
+    "year": 1971,
+    "country": "США",
+    "director": "Монте Хеллман",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "2001 год: Космическая одиссея",
+    "year": 1968,
+    "country": "Великобритания",
+    "director": "Стэнли Кубрик",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Сказки туманной луны после дождя",
+    "year": 1953,
+    "country": "Япония",
+    "director": "Кэндзи Мидзогути",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Шербурские зонтики",
+    "year": 1964,
+    "country": "Франция",
+    "director": "Жак Деми",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Невероятная правда",
+    "year": 1989,
+    "country": "США",
+    "director": "Хэл Хартли",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Внутри себя",
+    "year": 1997,
+    "country": "Великобритания",
+    "director": "Карин Адлер",
+    "rating": 5.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Непрощенный",
+    "year": 1992,
+    "country": "США",
+    "director": "Клинт Иствуд",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Потерянный рейс",
+    "year": 2006,
+    "country": "США",
+    "director": "Пол Гринграсс",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Неприкасаемые",
+    "year": 1987,
+    "country": "США",
+    "director": "Брайан Де Пальма",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Подозрительные лица",
+    "year": 1995,
+    "country": "Германия",
+    "director": "Брайан Сингер",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Отчуждение",
+    "year": 2002,
+    "country": "Турция",
+    "director": "Нури Бильге Джейлан",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вальсирующие",
+    "year": 1974,
+    "country": "Франция",
+    "director": "Бертран Блие",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Исчезновение",
+    "year": 1988,
+    "country": "Нидерланды",
+    "director": "Джордж Слёйзер",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мне отмщение, и аз воздам",
+    "year": 1979,
+    "country": "Япония",
+    "director": "Сёхэй Имамура",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вера Дрейк",
+    "year": 2004,
+    "country": "Великобритания",
+    "director": "Майк Ли",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Головокружение",
+    "year": 1958,
+    "country": "США",
+    "director": "Альфред Хичкок",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жертва",
+    "year": 1961,
+    "country": "Великобритания",
+    "director": "Бэзил Дирден",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Видеодром",
+    "year": 1982,
+    "country": "Канада",
+    "director": "Дэвид Кроненберг",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Деревня проклятых",
+    "year": 1960,
+    "country": "Великобритания",
+    "director": "Вульф Рилла",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жестокий полицейский",
+    "year": 1989,
+    "country": "Япония",
+    "director": "Такеши Китано",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Виридиана",
+    "year": 1961,
+    "country": "Мексика",
+    "director": "Луис Бунюэль",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Жить своей жизнью",
+    "year": 1962,
+    "country": "Франция",
+    "director": "Жан-Люк Годар",
+    "rating": 7.7,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Путешествие в Италию",
+    "year": 1954,
+    "country": "Италия",
+    "director": "Роберто Росселлини",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Плата за страх",
+    "year": 1952,
+    "country": "Франция",
+    "director": "Анри-Жорж Клузо",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Уолл-стрит",
+    "year": 1987,
+    "country": "США",
+    "director": "Оливер Стоун",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Военная игра",
+    "year": 1966,
+    "country": "Великобритания",
+    "director": "Питер Уоткинс",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Военные игры",
+    "year": 1983,
+    "country": "США",
+    "director": "Джон Бэдэм",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Воины",
+    "year": 1979,
+    "country": "США",
+    "director": "Уолтер Хилл",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Водопад жизни",
+    "year": 1920,
+    "country": "США",
+    "director": "Дэвид Уорк Гриффит",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мир Уэйна",
+    "year": 1992,
+    "country": "США",
+    "director": "Пенелопа Сфирис",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Гармонии Веркмейстера",
+    "year": 2000,
+    "country": "Венгрия",
+    "director": "Бела Тарр",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Вестсайдская история",
+    "year": 1961,
+    "country": "США",
+    "director": "Роберт Уайз",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "В чем дело, док?",
+    "year": 1972,
+    "country": "США",
+    "director": "Питер Богданович",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Что случилось с Бэби Джейн?",
+    "year": 1962,
+    "country": "США",
+    "director": "Роберт Олдрич",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Папа в командировке",
+    "year": 1985,
+    "country": "Югославия",
+    "director": "Эмир Кустурица",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Когда Гарри встретил Салли",
+    "year": 1989,
+    "country": "США",
+    "director": "Роб Райнер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Когда мы были королями",
+    "year": 1996,
+    "country": "США",
+    "director": "Леон Гаст",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Там, где гнездятся орлы",
+    "year": 1968,
+    "country": "Великобритания",
+    "director": "Брайан Дж. Хаттон",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Белый шар",
+    "year": 1995,
+    "country": "Иран",
+    "director": "Джафар Панахи",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Белая горячка",
+    "year": 1949,
+    "country": "США",
+    "director": "Рауль Уолш",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кто подставил кролика Роджера",
+    "year": 1988,
+    "country": "США",
+    "director": "Роберт Земекис",
+    "rating": 7.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Кто боится Вирджинии Вульф?",
+    "year": 1966,
+    "country": "США",
+    "director": "Майк Николс",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Плетеный человек",
+    "year": 1973,
+    "country": "Великобритания",
+    "director": "Робин Харди",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дикие ангелы",
+    "year": 1966,
+    "country": "США",
+    "director": "Роджер Корман",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дикая банда",
+    "year": 1969,
+    "country": "США",
+    "director": "Сэм Пекинпа",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дикарь",
+    "year": 1953,
+    "country": "США",
+    "director": "Ласло Бенедек",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Земляничная поляна",
+    "year": 1957,
+    "country": "Швеция",
+    "director": "Ингмар Бергман",
+    "rating": 8.0,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Ромео + Джульетта",
+    "year": 1996,
+    "country": "США",
+    "director": "Баз Лурман",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ветер",
+    "year": 1928,
+    "country": "США",
+    "director": "Виктор Шёстрём",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Небо над Берлином",
+    "year": 1987,
+    "country": "Германия",
+    "director": "Режиссёр: Вим Вендерс",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Мудрая кровь",
+    "year": 1979,
+    "country": "США",
+    "director": "Джон Хьюстон",
+    "rating": 6.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Великий инквизитор",
+    "year": 1968,
+    "country": "Великобритания",
+    "director": "Майкл Ривз",
+    "rating": 6.4,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Уитнэйл и Я",
+    "year": 1986,
+    "country": "Великобритания",
+    "director": "Брюс Робинсон",
+    "rating": 7.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Волшебник страны Оз",
+    "year": 1939,
+    "country": "США",
+    "director": "Виктор Флеминг",
+    "rating": 7.6,
+    "is_on_kinopoisk": true
+  },
+  {
+    "name": "Женщина в песках",
+    "year": 1964,
+    "country": "Япония",
+    "director": "Хироси Тэсигахара",
+    "rating": 8.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Влюблённые женщины",
+    "year": 1969,
+    "country": "Великобритания",
+    "director": "Кен Рассел",
+    "rating": 7.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Женщины на грани нервного срыва",
+    "year": 1988,
+    "country": "Испания",
+    "director": "Педро Альмодовар",
+    "rating": 7.6,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Женщины",
+    "year": 1939,
+    "country": "США",
+    "director": "Джордж Кьюкор",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Деловая женщина",
+    "year": 1988,
+    "country": "США",
+    "director": "Майк Николс",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Человек с рентгеновскими глазами",
+    "year": 1963,
+    "country": "США",
+    "director": "Роджер Корман",
+    "rating": 6.5,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Люди Икс",
+    "year": 2000,
+    "country": "США",
+    "director": "Брайан Сингер",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "И твою маму тоже",
+    "year": 2001,
+    "country": "Мексика",
+    "director": "Альфонсо Куарон",
+    "rating": 7.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Бабушка",
+    "year": 1988,
+    "country": "Буркина-Фасо",
+    "director": "Идрисса Уэдраого",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Год, когда у меня ломался голос",
+    "year": 1987,
+    "country": "Австралия",
+    "director": "Джон Дайган",
+    "rating": 6.8,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Год, опасный для жизни",
+    "year": 1982,
+    "country": "Австралия",
+    "director": "Питер Уир",
+    "rating": 6.9,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Желтая земля",
+    "year": 1984,
+    "country": "Китай",
+    "director": "Чэнь Кайгэ",
+    "rating": 6.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "The Beatles: Желтая подводная лодка",
+    "year": 1968,
+    "country": "Великобритания",
+    "director": "Джордж Даннинг",
+    "rating": 8.0,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Молодой Адам",
+    "year": 2002,
+    "country": "Великобритания",
+    "director": "Дэвид Маккензи",
+    "rating": 6.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Молодой Франкенштейн",
+    "year": 1974,
+    "country": "США",
+    "director": "Мэл Брукс",
+    "rating": 7.3,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Дзета",
+    "year": 1969,
+    "country": "Франция",
+    "director": "Коста-Гаврас",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Затоiчи",
+    "year": 2003,
+    "country": "Япония",
+    "director": "Такеши Китано",
+    "rating": 7.7,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Зази в метро",
+    "year": 1960,
+    "country": "Франция",
+    "director": "Луи Маль",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Ноль за поведение",
+    "year": 1933,
+    "country": "Франция",
+    "director": "Жан Виго",
+    "rating": 7.2,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Образцовый самец",
+    "year": 2001,
+    "country": "Германия",
+    "director": "Бен Стиллер",
+    "rating": 6.1,
+    "is_on_kinopoisk": false
+  },
+  {
+    "name": "Зулусы",
+    "year": 1964,
+    "country": "Великобритания",
+    "director": "Сай Эндфилд",
+    "rating": 7.5,
+    "is_on_kinopoisk": false
+  }
+]
