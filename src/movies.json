@@ -66,8 +66,8 @@
   {
     "name": "Агирре, гнев божий",
     "year": 1972,
-    "country": "Германия",
-    "director": "Режиссёр: Вернер Херцог",
+    "country": "Германия (ФРГ)",
+    "director": "Вернер Херцог",
     "rating": 7.7,
     "is_on_kinopoisk": false
   },
@@ -93,7 +93,7 @@
     "country": "СССР",
     "director": "Сергей Эйзенштейн",
     "rating": 8.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Элфи",
@@ -181,7 +181,7 @@
     "country": "Франция",
     "director": "Жан-Пьер Жёне",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Красота по-американски",
@@ -237,7 +237,7 @@
     "country": "США",
     "director": "Шари Спрингер Берман",
     "rating": 6.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Американский оборотень в Лондоне",
@@ -269,7 +269,7 @@
     "country": "СССР",
     "director": "Андрей Тарковский",
     "rating": 8.2,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Ангел за моим столом",
@@ -301,7 +301,7 @@
     "country": "США",
     "director": "Фрэнсис Форд Коппола",
     "rating": 8.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Квартира",
@@ -365,7 +365,7 @@
     "country": "СССР",
     "director": "Андрей Кончаловский",
     "rating": 7.3,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Аталанта",
@@ -421,7 +421,7 @@
     "country": "Германия",
     "director": "Джей Роуч",
     "rating": 6.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Приключение",
@@ -498,8 +498,8 @@
   {
     "name": "Кафе «Багдад»",
     "year": 1987,
-    "country": "Германия",
-    "director": "Режиссёр: Перси Адлон",
+    "country": "Германия (ФРГ)",
+    "director": "Перси Адлон",
     "rating": 7.2,
     "is_on_kinopoisk": false
   },
@@ -573,7 +573,7 @@
     "country": "Япония",
     "director": "Киндзи Фукасаку",
     "rating": 7.4,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Броненосец «Потемкин»",
@@ -581,7 +581,7 @@
     "country": "СССР",
     "director": "Сергей Эйзенштейн",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Мое сердце биться перестало",
@@ -626,8 +626,8 @@
   {
     "name": "Будучи там",
     "year": 1979,
-    "country": "Германия",
-    "director": "Режиссёр: Хэл Эшби",
+    "country": "Германия (ФРГ)",
+    "director": "Хэл Эшби",
     "rating": 7.7,
     "is_on_kinopoisk": false
   },
@@ -717,7 +717,7 @@
     "country": "Италия",
     "director": "Витторио Де Сика",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Большое разочарование",
@@ -789,7 +789,7 @@
     "country": "США",
     "director": "Стивен Херек",
     "rating": 6.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Птицы",
@@ -954,8 +954,8 @@
   {
     "name": "Подводная лодка",
     "year": 1981,
-    "country": "Германия",
-    "director": "Режиссёр: Вольфганг Петерсен",
+    "country": "Германия (ФРГ)",
+    "director": "Вольфганг Петерсен",
     "rating": 8.1,
     "is_on_kinopoisk": false
   },
@@ -1181,7 +1181,7 @@
     "country": "Россия",
     "director": "Никита Михалков",
     "rating": 7.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Буч Кэссиди и Сандэнс Кид",
@@ -1261,7 +1261,7 @@
     "country": "США",
     "director": "Майкл Кёртиц",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Казино",
@@ -1341,7 +1341,7 @@
     "country": "Великобритания",
     "director": "Питер Лорд",
     "rating": 7.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Андалузский пес",
@@ -1421,7 +1421,7 @@
     "country": "Бразилия",
     "director": "Фернанду Мейреллиш",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Клерки",
@@ -1517,7 +1517,7 @@
     "country": "СССР",
     "director": "Элем Климов",
     "rating": 8.3,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "В компании волков",
@@ -1581,7 +1581,7 @@
     "country": "СССР",
     "director": "Михаил Калатозов",
     "rating": 8.3,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Автокатастрофа",
@@ -1685,7 +1685,7 @@
     "country": "Дания",
     "director": "Ларс фон Триер",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Опасные связи",
@@ -1981,7 +1981,7 @@
     "country": "Италия",
     "director": "Серджио Корбуччи",
     "rating": 7.4,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Делай как надо",
@@ -2021,7 +2021,7 @@
     "country": "Дания",
     "director": "Ларс фон Триер",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Сладкая жизнь",
@@ -2029,7 +2029,7 @@
     "country": "Италия",
     "director": "Федерико Феллини",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Не оглядывайся",
@@ -2061,7 +2061,7 @@
     "country": "США",
     "director": "Ричард Келли",
     "rating": 7.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Двойная страховка",
@@ -2090,10 +2090,10 @@
   {
     "name": "Вне закона",
     "year": 1986,
-    "country": "Германия",
-    "director": "Режиссёр: Джим Джармуш",
+    "country": "Германия (ФРГ)",
+    "director": "Джим Джармуш",
     "rating": 7.8,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Бункер",
@@ -2229,7 +2229,7 @@
     "country": "Италия",
     "director": "Федерико Феллини",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Восемь выходят из игры",
@@ -2261,7 +2261,7 @@
     "country": "США",
     "director": "Гас Ван Сент",
     "rating": 6.4,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Человек-слон",
@@ -2330,8 +2330,8 @@
   {
     "name": "Каждый за себя, а Бог против всех",
     "year": 1974,
-    "country": "Германия",
-    "director": "Режиссёр: Вернер Херцог",
+    "country": "Германия (ФРГ)",
+    "director": "Вернер Херцог",
     "rating": 7.7,
     "is_on_kinopoisk": false
   },
@@ -2445,7 +2445,7 @@
     "country": "Швеция",
     "director": "Ингмар Бергман",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Вдали от рая",
@@ -2490,8 +2490,8 @@
   {
     "name": "Страх съедает душу",
     "year": 1974,
-    "country": "Германия",
-    "director": "Режиссёр: Райнер Вернер Фассбиндер",
+    "country": "Германия (ФРГ)",
+    "director": "Райнер Вернер Фассбиндер",
     "rating": 7.7,
     "is_on_kinopoisk": false
   },
@@ -2525,7 +2525,7 @@
     "country": "Франция",
     "director": "Люк Бессон",
     "rating": 8.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Бойцовский клуб",
@@ -2562,8 +2562,8 @@
   {
     "name": "Фицкарральдо",
     "year": 1982,
-    "country": "Германия",
-    "director": "Режиссёр: Вернер Херцог",
+    "country": "Германия (ФРГ)",
+    "director": "Вернер Херцог",
     "rating": 7.9,
     "is_on_kinopoisk": false
   },
@@ -2645,7 +2645,7 @@
     "country": "США",
     "director": "Тод Браунинг",
     "rating": 7.8,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Французский связной",
@@ -2861,7 +2861,7 @@
     "country": "США",
     "director": "Виктор Флеминг",
     "rating": 8.4,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Доброй ночи и удачи",
@@ -2893,7 +2893,7 @@
     "country": "Великобритания",
     "director": "Роберт Олтмен",
     "rating": 6.8,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Евангелие от Матфея",
@@ -2941,7 +2941,7 @@
     "country": "США",
     "director": "Джон Форд",
     "rating": 7.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Могила светлячков",
@@ -3069,7 +3069,7 @@
     "country": "Франция",
     "director": "Матьё Кассовиц",
     "rating": 7.8,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Муж парикмахерши",
@@ -3210,8 +3210,8 @@
   {
     "name": "Небесные создания",
     "year": 1994,
-    "country": "Новая",
-    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая Зеландия",
+    "director": "Питер Джексон",
     "rating": 6.9,
     "is_on_kinopoisk": false
   },
@@ -3226,8 +3226,8 @@
   {
     "name": "Родной край: хроники Германии",
     "year": 1984,
-    "country": "Германия",
-    "director": "Режиссёр: Эдгар Райц",
+    "country": "Германия (ФРГ)",
+    "director": "Эдгар Райц",
     "rating": 6.2,
     "is_on_kinopoisk": false
   },
@@ -3357,7 +3357,7 @@
     "country": "Великобритания",
     "director": "Эдгар Райт",
     "rating": 7.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Часы и времена",
@@ -3461,7 +3461,7 @@
     "country": "Дания",
     "director": "Ларс фон Триер",
     "rating": 7.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Если...",
@@ -3557,7 +3557,7 @@
     "country": "Гонконг",
     "director": "Эндрю Лау",
     "rating": 7.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Невинные",
@@ -3637,7 +3637,7 @@
     "country": "США",
     "director": "Фрэнк Капра",
     "rating": 8.4,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Итальянская работа",
@@ -3653,7 +3653,7 @@
     "country": "СССР",
     "director": "Сергей Эйзенштейн",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Иван под экстази",
@@ -3877,7 +3877,7 @@
     "country": "США",
     "director": "Мериан К. Купер",
     "rating": 7.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Король Лир",
@@ -4125,7 +4125,7 @@
     "country": "США",
     "director": "Майк Фиггис",
     "rating": 7.4,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Ленинградские ковбои едут в Америку",
@@ -4141,7 +4141,7 @@
     "country": "Франция",
     "director": "Люк Бессон",
     "rating": 8.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Леопард",
@@ -4306,8 +4306,8 @@
   {
     "name": "Властелин колец: Братство Кольца",
     "year": 2001,
-    "country": "Новая",
-    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая Зеландия",
+    "director": "Питер Джексон",
     "rating": 8.6,
     "is_on_kinopoisk": false
   },
@@ -4421,7 +4421,7 @@
     "country": "США",
     "director": "Джон Хьюстон",
     "rating": 7.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Мама Рома",
@@ -4506,8 +4506,8 @@
   {
     "name": "Замужество Марии Браун",
     "year": 1979,
-    "country": "Германия",
-    "director": "Режиссёр: Райнер Вернер Фассбиндер",
+    "country": "Германия (ФРГ)",
+    "director": "Райнер Вернер Фассбиндер",
     "rating": 7.6,
     "is_on_kinopoisk": false
   },
@@ -4613,15 +4613,15 @@
     "country": "США",
     "director": "Кристофер Нолан",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Воспоминания об убийстве",
     "year": 2003,
-    "country": "Корея",
-    "director": "Режиссёр: Пон Джун-хо",
+    "country": "Корея Южная",
+    "director": "Пон Джун-хо",
     "rating": 7.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Воспоминания об отсталости",
@@ -4725,7 +4725,7 @@
     "country": "США",
     "director": "Клинт Иствуд",
     "rating": 8.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Зеркало",
@@ -4733,7 +4733,7 @@
     "country": "СССР",
     "director": "Андрей Тарковский",
     "rating": 8.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Неприкаянные",
@@ -5013,7 +5013,7 @@
     "country": "США",
     "director": "Джордж А. Ромеро",
     "rating": 7.2,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Аллея кошмаров",
@@ -5045,7 +5045,7 @@
     "country": "Франция",
     "director": "Люк Бессон",
     "rating": 7.2,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Не глотать",
@@ -5061,7 +5061,7 @@
     "country": "США",
     "director": "Эрнст Любич",
     "rating": 7.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Девятая конфигурация",
@@ -5141,7 +5141,7 @@
     "country": "Россия",
     "director": "Алексей Балабанов",
     "rating": 7.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Офисное пространство",
@@ -5154,10 +5154,10 @@
   {
     "name": "Олдбой",
     "year": 2003,
-    "country": "Корея",
-    "director": "Режиссёр: Пак Чхан-ук",
+    "country": "Корея Южная",
+    "director": "Пак Чхан-ук",
     "rating": 8.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Оливер Твист",
@@ -5221,7 +5221,7 @@
     "country": "Гонконг",
     "director": "Цуй Харк",
     "rating": 7.2,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Однажды на Диком Западе",
@@ -5309,7 +5309,7 @@
     "country": "Испания",
     "director": "Алехандро Аменабар",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Вне поля зрения",
@@ -5378,8 +5378,8 @@
   {
     "name": "Париж, Техас",
     "year": 1984,
-    "country": "Германия",
-    "director": "Режиссёр: Вим Вендерс",
+    "country": "Германия (ФРГ)",
+    "director": "Вим Вендерс",
     "rating": 7.9,
     "is_on_kinopoisk": false
   },
@@ -5453,7 +5453,7 @@
     "country": "США",
     "director": "Джордж Кьюкор",
     "rating": 7.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Пи",
@@ -5605,7 +5605,7 @@
     "country": "Япония",
     "director": "Кэтрин Бигелоу",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Полицейская история",
@@ -5613,7 +5613,7 @@
     "country": "Гонконг",
     "director": "Джеки Чан",
     "rating": 7.8,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Полтергейст",
@@ -5781,7 +5781,7 @@
     "country": "Япония",
     "director": "Акира Куросава",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Реаниматор",
@@ -5805,7 +5805,7 @@
     "country": "США",
     "director": "Альфред Хичкок",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Бунтарь без причины",
@@ -5909,7 +5909,7 @@
     "country": "Япония",
     "director": "Хидэо Наката",
     "rating": 7.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Рио Браво",
@@ -5989,7 +5989,7 @@
     "country": "США",
     "director": "Уильям Уайлер",
     "rating": 8.3,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Рим, открытый город",
@@ -6109,7 +6109,7 @@
     "country": "Франция",
     "director": "Жан-Пьер Мельвиль",
     "rating": 7.8,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Без солнца",
@@ -6261,7 +6261,7 @@
     "country": "Япония",
     "director": "Акира Куросава",
     "rating": 8.2,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Седьмая печать",
@@ -6269,7 +6269,7 @@
     "country": "Швеция",
     "director": "Ингмар Бергман",
     "rating": 8.1,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Секс, ложь и видео",
@@ -6317,7 +6317,7 @@
     "country": "Великобритания",
     "director": "Эдгар Райт",
     "rating": 7.3,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Побег из Шоушенка",
@@ -6365,7 +6365,7 @@
     "country": "Индия",
     "director": "Рамеш Сиппи",
     "rating": 7.8,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Стреляйте в пианиста",
@@ -6517,7 +6517,7 @@
     "country": "США",
     "director": "Уильям Коттрелл",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Солярис",
@@ -6525,7 +6525,7 @@
     "country": "СССР",
     "director": "Андрей Тарковский",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "В джазе только девушки",
@@ -6666,10 +6666,10 @@
   {
     "name": "Весна, лето, осень, зима... и снова весна",
     "year": 2003,
-    "country": "Корея",
-    "director": "Режиссёр: Ким Ки Дук",
+    "country": "Корея Южная",
+    "director": "Ким Ки Дук",
     "rating": 7.9,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Шпион, который меня любил",
@@ -6741,7 +6741,7 @@
     "country": "США",
     "director": "Джим Джармуш",
     "rating": 7.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Незнакомцы в поезде",
@@ -6965,7 +6965,7 @@
     "country": "США",
     "director": "Джеймс Кэмерон",
     "rating": 8.4,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Тэцуо, железный человек",
@@ -6981,7 +6981,7 @@
     "country": "США",
     "director": "Тоуб Хупер",
     "rating": 6.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Тельма и Луиза",
@@ -7053,7 +7053,7 @@
     "country": "Великобритания",
     "director": "Кэрол Рид",
     "rating": 7.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "39 ступеней",
@@ -7194,8 +7194,8 @@
   {
     "name": "Жестяной барабан",
     "year": 1979,
-    "country": "Германия",
-    "director": "Режиссёр: Фолькер Шлёндорф",
+    "country": "Германия (ФРГ)",
+    "director": "Фолькер Шлёндорф",
     "rating": 7.7,
     "is_on_kinopoisk": false
   },
@@ -7573,7 +7573,7 @@
     "country": "Франция",
     "director": "Жан-Люк Годар",
     "rating": 7.7,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Путешествие в Италию",
@@ -7773,7 +7773,7 @@
     "country": "Швеция",
     "director": "Ингмар Бергман",
     "rating": 8.0,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Ромео + Джульетта",
@@ -7794,8 +7794,8 @@
   {
     "name": "Небо над Берлином",
     "year": 1987,
-    "country": "Германия",
-    "director": "Режиссёр: Вим Вендерс",
+    "country": "Германия (ФРГ)",
+    "director": "Вим Вендерс",
     "rating": 8.0,
     "is_on_kinopoisk": false
   },
@@ -7829,7 +7829,7 @@
     "country": "США",
     "director": "Виктор Флеминг",
     "rating": 7.6,
-    "is_on_kinopoisk": true
+    "is_on_kinopoisk": false
   },
   {
     "name": "Женщина в песках",
